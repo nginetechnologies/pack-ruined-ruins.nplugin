@@ -43,6 +43,18 @@
             "2769baa2-dde3-cbc2-4e2c-b4c4666352a5"
         ]
     },
+    "03cd7117-9a67-d52e-26d4-2909398e2c39": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Ruins_Merged.scene.nasset/Ruins Merged.mesh.nasset/Ruins Merged Pot Main.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "6f6b7f1f-13ee-5056-5bfd-acbaab08ac40",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "0462cf13-3eeb-4020-777e-d47ba9009b1b": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Ruined_Ruins.scene.nasset/Window Bars Double Overgrown.mesh.nasset/Thumbnails/Window Bars Double Overgrown.mesh.nasset.tex.nasset"
@@ -68,6 +80,11 @@
     "04d41623-991b-f4ad-fcef-4c4f1fd1dba2": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Ruined_Ruins.scene.nasset/Barrel.mesh.nasset/Thumbnails/Barrel.mesh.nasset.tex.nasset"
+    },
+    "052c71f0-e861-e9ed-e402-973df2468efa": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Ruins_Lighting.scene.nasset/SC_Ruins_Lighting.scene.nasset"
     },
     "05d27998-196f-e79e-bb67-9e42d6841a32": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -289,6 +306,18 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "11b15e58-adbe-78c3-7335-9ca9e9ffe38d": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Ruins_Merged.scene.nasset/Ruins Merged.mesh.nasset/Ruins Merged Green.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "e8bb1b8c-ab1c-bfca-b234-5f16099768fd",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "14ec1241-950f-2928-0c0f-8101b31e9e88": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -345,6 +374,18 @@
             "19d78297-fe67-eac5-71a8-4a07da083f12",
             "5f973950-e25b-42d6-6194-710869e84971",
             "dd0c5b18-baf8-38d9-28bc-d0ee04027edf"
+        ]
+    },
+    "172da5cf-e56d-d558-817a-2c9c5e5dee68": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Ruins_Merged.scene.nasset/Ruins Merged.mesh.nasset/Ruins Merged Book 4.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "6ae2e0db-e906-80fc-5247-ca34061734da",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "1756fc6d-728f-3881-f628-fdd54f5cb78e": {
@@ -431,6 +472,18 @@
             "91bfd8a8-3981-fea8-fed7-3162e64eff12",
             "809b5115-7fdf-0355-eb53-5552db7e5579",
             "2e905c78-f83b-4712-92e3-26e1ada86821"
+        ]
+    },
+    "1b640f3f-4489-c8a8-0e49-60e0491cc2d9": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Ruins_Merged.scene.nasset/Ruins Merged.mesh.nasset/Ruins Merged Flag.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "7be8780d-d1b8-41a3-1f18-180ce64c30f2",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "1bd8dd1c-db71-4734-8f18-b2245f3f54e2": {
@@ -1162,9 +1215,33 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Textures/T_Leaf_D.tex.nasset"
     },
+    "3ae32ab2-2e19-3096-8b3d-f201e3e161ee": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Ruins_Merged.scene.nasset/Ruins Merged.mesh.nasset/Ruins Merged Stone.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "d1fd9da2-a1a1-b5ec-e364-4b229667fc4d",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "3b545440-b8c9-a9c3-1cdd-ea73b1ec17ce": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Characters/Material Instances/Thumbnails/Skin.mtli.nasset.tex.nasset"
+    },
+    "3c3a05a6-e113-0971-6a1e-e465a9f0a83d": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Ruins_Merged.scene.nasset/Ruins Merged.mesh.nasset/Ruins Merged Light.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "fb722ddf-ca42-76af-77b6-1eebdacfcbed",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
     },
     "3c4afe10-b407-a7e9-1f61-7de0dbe62ac0": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -1298,6 +1375,18 @@
             "1cdbc97c-45b1-a4d0-13f5-0cde2f842e17",
             "5f973950-e25b-42d6-6194-710869e84971",
             "98b69e3c-826a-d9a8-72d0-dfe805422da4"
+        ]
+    },
+    "4330f484-5fd9-fc2a-1e86-1b90446b0ba5": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Ruins_Merged.scene.nasset/Ruins Merged.mesh.nasset/Ruins Merged Leaves.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "93b53d4c-b2ff-7256-1a8c-51662b8afa46",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "4389a361-5bea-dd91-566a-643ef38c65e9": {
@@ -1708,6 +1797,18 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "5320cf25-a438-6e76-a38f-6023bfbd6638": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Ruins_Merged.scene.nasset/Ruins Merged.mesh.nasset/Ruins Merged Pages.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "5c9c3adf-6355-0ada-7fab-bee502c05849",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "5389ea25-2698-53f4-6916-d5032a261d58": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -1994,6 +2095,30 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "5ce1c7a2-2499-7e7b-c490-7da400d1ebb4": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Ruins_Merged.scene.nasset/Ruins Merged.mesh.nasset/Ruins Merged Book 3.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "53f04537-7966-dada-27d9-705fa3a4dcc0",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "5d40d72c-e3b8-25e3-f5fb-1ed80f01c6cb": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Ruins_Merged.scene.nasset/Ruins Merged.mesh.nasset/Ruins Merged Highlights.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "b9708b9d-e385-fca9-9acd-a5a0560fadfe",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "5df2fbc7-214f-86cc-d3cb-720a2e2a131a": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -2052,6 +2177,14 @@
     "6139f47a-4200-6aa8-f2b6-b1824b963fe3": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Ruined_Ruins.scene.nasset/Wall Broken.mesh.nasset/Thumbnails/Wall Broken.mesh.nasset.tex.nasset"
+    },
+    "61559a90-9108-09a3-22b2-2a382768d1dd": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Ruins_Merged.scene.nasset/SC_Ruins_Merged.scene.nasset",
+        "dependencies": [
+            "85b4f610-b17c-ed29-fcf3-1b7861d1bd9a"
+        ]
     },
     "615ba817-f023-8257-ffea-bf40340db6ca": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -2363,6 +2496,18 @@
             "b71f5583-754c-e1f7-905c-2f1f1e55ce2a"
         ]
     },
+    "6e6a1ca1-0cdb-694f-3586-db078b269635": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Ruins_Merged.scene.nasset/Ruins Merged.mesh.nasset/Ruins Merged Book 2-2.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "a7837df8-466c-8406-1a1a-3d705679dd02",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "6e8ce62a-113a-61b8-06af-274bd9a0a6af": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -2591,6 +2736,18 @@
             "c54057f0-ec5c-dca9-a594-71dd5ac59da1"
         ]
     },
+    "7659ff8a-83a4-490b-ae95-99f9d943acd7": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Ruins_Merged.scene.nasset/Ruins Merged.mesh.nasset/Ruins Merged Metal Dark.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "c31754ed-2e25-07fe-44f8-f9195941262a",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "774520f2-7ec8-7b3e-3948-ceacebbe2a18": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -2618,6 +2775,18 @@
     "79f60ab3-5cfa-fc9a-5085-02af5cab000e": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Ruined_Ruins.scene.nasset/Floor Hole Corner.mesh.nasset/Thumbnails/Floor Hole Corner.mesh.nasset.tex.nasset"
+    },
+    "7ba65acd-e810-2ef9-08ea-707fefe90ed8": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Ruins_Merged.scene.nasset/Ruins Merged.mesh.nasset/Ruins Merged Fire.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "49f90861-76d7-15ee-85f1-5b9c8b57cc78",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
     },
     "7be32505-4d6e-094b-518d-21822434778d": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -2816,6 +2985,68 @@
     "85a82514-ba1c-e43b-9935-1367f358e5ed": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Ruined_Ruins.scene.nasset/Curve 1.mesh.nasset/Thumbnails/Curve 1.mesh.nasset.tex.nasset"
+    },
+    "85b4f610-b17c-ed29-fcf3-1b7861d1bd9a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Ruins_Merged.scene.nasset/Ruins Merged.mesh.nasset/Ruins Merged.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "b9708b9d-e385-fca9-9acd-a5a0560fadfe",
+            "5d40d72c-e3b8-25e3-f5fb-1ed80f01c6cb",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7",
+            "8184c770-ec81-32e1-d00f-a7123a839c29",
+            "d4b42f46-de46-479b-1d14-9f3dcc6a9ad1",
+            "5ef0faca-7ae3-1610-6747-6e8ce4cdd901",
+            "eabba8b4-74a6-0f79-8b0b-d4f0b3fb6a7c",
+            "93b53d4c-b2ff-7256-1a8c-51662b8afa46",
+            "4330f484-5fd9-fc2a-1e86-1b90446b0ba5",
+            "e8bb1b8c-ab1c-bfca-b234-5f16099768fd",
+            "11b15e58-adbe-78c3-7335-9ca9e9ffe38d",
+            "f37295c6-2674-9947-f9fe-35fbb9843dbe",
+            "a79e3380-73da-8f9e-09dd-9b5faf752f33",
+            "fb722ddf-ca42-76af-77b6-1eebdacfcbed",
+            "3c3a05a6-e113-0971-6a1e-e465a9f0a83d",
+            "09441966-77ac-6d9a-311f-7f8f5a6b9e1f",
+            "ba9b5578-6682-feb8-1297-2523fbc93b1a",
+            "5568bda7-daba-c06d-4321-2d6b46d5014a",
+            "cdd4b2be-4235-5399-1ba5-dbe3a86eabb1",
+            "04af73dc-28a6-30ee-3e61-e7e76592dfb9",
+            "a692f0d4-4cf2-19b1-9561-24e5a99cbfd2",
+            "e578ef02-3e64-f69e-d1c1-1231406c3e16",
+            "ea97cd3a-ce1d-0ba0-dbcf-3891d45174b5",
+            "d9b3d1ae-a7a0-0fd5-3b8a-0b00c5e592bd",
+            "b90de72d-5937-67d0-f0ea-3b78985dba8a",
+            "a7837df8-466c-8406-1a1a-3d705679dd02",
+            "f2824e86-dfa8-068d-54d7-ade8093988ce",
+            "5c9c3adf-6355-0ada-7fab-bee502c05849",
+            "5320cf25-a438-6e76-a38f-6023bfbd6638",
+            "6ae2e0db-e906-80fc-5247-ca34061734da",
+            "172da5cf-e56d-d558-817a-2c9c5e5dee68",
+            "53f04537-7966-dada-27d9-705fa3a4dcc0",
+            "5ce1c7a2-2499-7e7b-c490-7da400d1ebb4",
+            "2362c801-82d6-aa8c-357a-5bab23f0c1a8",
+            "c452d131-2487-b609-c0c5-8b16f2b465f5",
+            "c31754ed-2e25-07fe-44f8-f9195941262a",
+            "7659ff8a-83a4-490b-ae95-99f9d943acd7",
+            "49f90861-76d7-15ee-85f1-5b9c8b57cc78",
+            "7ba65acd-e810-2ef9-08ea-707fefe90ed8",
+            "6f6b7f1f-13ee-5056-5bfd-acbaab08ac40",
+            "03cd7117-9a67-d52e-26d4-2909398e2c39",
+            "1cd47809-7835-5437-ff80-cd952c56e1b8",
+            "daabfe1e-795a-d251-5aba-dcaebd9d3627",
+            "d1fd9da2-a1a1-b5ec-e364-4b229667fc4d",
+            "3ae32ab2-2e19-3096-8b3d-f201e3e161ee",
+            "7be8780d-d1b8-41a3-1f18-180ce64c30f2",
+            "1b640f3f-4489-c8a8-0e49-60e0491cc2d9",
+            "ba5455b9-e1be-6fba-a7f2-364e4748d6b8",
+            "ce3dd57f-a43d-62d9-cf9b-b59e133912bf",
+            "6e6a1ca1-0cdb-694f-3586-db078b269635",
+            "809b5115-7fdf-0355-eb53-5552db7e5579",
+            "933617e1-0441-1575-18e9-5efd7c7ae453"
+        ]
     },
     "86b8b091-384b-30a6-acd1-f311b5d3a576": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -3149,6 +3380,18 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Ruined_Ruins.scene.nasset/Skull.mesh.nasset/Thumbnails/Skull.mesh.nasset.tex.nasset"
     },
+    "933617e1-0441-1575-18e9-5efd7c7ae453": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Ruins_Merged.scene.nasset/Ruins Merged.mesh.nasset/Ruins Merged Metal Light.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "809b5115-7fdf-0355-eb53-5552db7e5579",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "936b64fb-af0d-2577-76df-2d42b6ffdd4a": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -3456,6 +3699,18 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "a692f0d4-4cf2-19b1-9561-24e5a99cbfd2": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Ruins_Merged.scene.nasset/Ruins Merged.mesh.nasset/Ruins Merged Wood.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "04af73dc-28a6-30ee-3e61-e7e76592dfb9",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "a6af7885-6e16-9bae-3f05-c188bf3e5197": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -3488,6 +3743,18 @@
         "thumbnail": "f231dc6a-a55f-5a39-e8c6-a85a641741a3",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "a79e3380-73da-8f9e-09dd-9b5faf752f33": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Ruins_Merged.scene.nasset/Ruins Merged.mesh.nasset/Ruins Merged Candle.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "f37295c6-2674-9947-f9fe-35fbb9843dbe",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "a8162351-9135-f722-d766-857972316b0d": {
@@ -3733,6 +4000,18 @@
             "93f60eda-ed11-f776-0c46-65aa05fbb29b"
         ]
     },
+    "b90de72d-5937-67d0-f0ea-3b78985dba8a": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Ruins_Merged.scene.nasset/Ruins Merged.mesh.nasset/Ruins Merged Bark.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "d9b3d1ae-a7a0-0fd5-3b8a-0b00c5e592bd",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "b9699c4b-1831-0ab5-c0a4-9a39e6e92e93": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -3764,6 +4043,25 @@
     "b9d58d81-8b3e-74c5-be90-aae492378381": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Ruined_Ruins.scene.nasset/Crate.mesh.nasset/Thumbnails/Crate.mesh.nasset.tex.nasset"
+    },
+    "ba5455b9-e1be-6fba-a7f2-364e4748d6b8": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Source/Material Instances/Water.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "ba9b5578-6682-feb8-1297-2523fbc93b1a": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Ruins_Merged.scene.nasset/Ruins Merged.mesh.nasset/Ruins Merged Black.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "09441966-77ac-6d9a-311f-7f8f5a6b9e1f",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
     },
     "baa07b6b-e580-2adb-a1ea-aa47b186d986": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -3993,6 +4291,18 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "c452d131-2487-b609-c0c5-8b16f2b465f5": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Ruins_Merged.scene.nasset/Ruins Merged.mesh.nasset/Ruins Merged Book 1.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "2362c801-82d6-aa8c-357a-5bab23f0c1a8",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "c4a1ca52-68ac-e0bd-e3a9-0ca6315ff09e": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Ruined_Ruins.scene.nasset/Curve 1 Overgrown.mesh.nasset/Thumbnails/Curve 1 Overgrown.mesh.nasset.tex.nasset"
@@ -4209,6 +4519,18 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "cdd4b2be-4235-5399-1ba5-dbe3a86eabb1": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Ruins_Merged.scene.nasset/Ruins Merged.mesh.nasset/Ruins Merged Wood Dark.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "5568bda7-daba-c06d-4321-2d6b46d5014a",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "cddfeca9-2bbf-c1c2-02b4-23de976caefd": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
@@ -4217,6 +4539,18 @@
             "9bbb4804-a3be-3617-ff76-8fc1186af987",
             "5f973950-e25b-42d6-6194-710869e84971",
             "0d3c922c-d176-0565-db45-a43ed7e1e827"
+        ]
+    },
+    "ce3dd57f-a43d-62d9-cf9b-b59e133912bf": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Ruins_Merged.scene.nasset/Ruins Merged.mesh.nasset/Ruins Merged Water.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "ba5455b9-e1be-6fba-a7f2-364e4748d6b8",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "ce8a39f0-2674-3047-fd5f-764055996b88": {
@@ -4350,6 +4684,18 @@
         ],
         "dependencies": [
             "7be8780d-d1b8-41a3-1f18-180ce64c30f2",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "d4b42f46-de46-479b-1d14-9f3dcc6a9ad1": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Ruins_Merged.scene.nasset/Ruins Merged.mesh.nasset/Ruins Merged Main.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "8184c770-ec81-32e1-d00f-a7123a839c29",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
@@ -4495,6 +4841,18 @@
         ],
         "dependencies": [
             "8184c770-ec81-32e1-d00f-a7123a839c29",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "daabfe1e-795a-d251-5aba-dcaebd9d3627": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Ruins_Merged.scene.nasset/Ruins Merged.mesh.nasset/Ruins Merged Pot Detail.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "1cd47809-7835-5437-ff80-cd952c56e1b8",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
@@ -4849,6 +5207,30 @@
             "19c98290-bee2-d947-2100-f09b9c92d7b8"
         ]
     },
+    "ea97cd3a-ce1d-0ba0-dbcf-3891d45174b5": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Ruins_Merged.scene.nasset/Ruins Merged.mesh.nasset/Ruins Merged Gold.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "e578ef02-3e64-f69e-d1c1-1231406c3e16",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "eabba8b4-74a6-0f79-8b0b-d4f0b3fb6a7c": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Ruins_Merged.scene.nasset/Ruins Merged.mesh.nasset/Ruins Merged Metal.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "5ef0faca-7ae3-1610-6747-6e8ce4cdd901",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "eb6cb027-e400-58e4-57dc-9285553d3ed9": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -5088,6 +5470,18 @@
         ],
         "dependencies": [
             "7be8780d-d1b8-41a3-1f18-180ce64c30f2",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "f2824e86-dfa8-068d-54d7-ade8093988ce": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Ruins_Merged.scene.nasset/Ruins Merged.mesh.nasset/Ruins Merged Book 2.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "a7837df8-466c-8406-1a1a-3d705679dd02",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
