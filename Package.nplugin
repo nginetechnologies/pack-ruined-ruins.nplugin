@@ -4,6 +4,7 @@
     "guid": "aefd082a-af98-4dd2-b71b-a6a4b077590d",
     "engine": "3ff049e0-0880-4898-879d-1ccf5583c9c6",
     "asset_directory": "Assets",
+    "database_guid": "9fae9027-610f-74ae-a2c4-62ec4def9828",
     "plugin_dependencies": [
 		"4cc21fd4-730f-475d-9807-fbf9e5595308",
 		"7f333735-7d28-4ede-815b-805aad806b8c",
