@@ -1,1 +1,75 @@
-{"guid":"bf3ce953-d18c-94d2-716e-d1d838c8918c","assetTypeGuid":"abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c","tags":["3db9a07a-f18a-4fe6-87e9-999ef466091a"],"typeGuid":"0c3f4f29-0d53-4878-922a-cca7d6af7bb6","instanceGuid":"18b10c0a-9c85-4dd2-fb79-dbadb9268794","data_components":[],"children":[{"typeGuid":"de8f8da2-d37f-41da-bc6e-580435fe605f","instanceGuid":"9f8afe3a-8aaf-7815-2ab2-be84e421b09a","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Bush 2x1 Physics Body"},{"typeGuid":"653ee503-f473-47d2-be45-08a577d17b86","type":0}],"children":[{"typeGuid":"508647ca-01f3-4930-9e33-4562692b719f","instanceGuid":"771f0c40-622f-4cd5-8519-741ee7f249dd","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Bush 2x1 Leaves Collider"}],"children":[{"typeGuid":"de0b2bc1-2e72-4739-a749-f5281e0de55a","instanceGuid":"2dd9ad24-ceea-90b0-6786-7c55266d7c3a","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Bush 2x1 Leaves"}],"9f750482-b822-4d4b-be6a-9c135c614328":{"stages":["bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f","dfca0ef8-eded-4660-8adb-43c0aa8f4e60"]},"de0b2bc1-2e72-4739-a749-f5281e0de55a":{"mesh":"774520f2-7ec8-7b3e-3948-ceacebbe2a18","material_instance":"93b53d4c-b2ff-7256-1a8c-51662b8afa46"}}],"508647ca-01f3-4930-9e33-4562692b719f":{"mesh":"774520f2-7ec8-7b3e-3948-ceacebbe2a18"},"10dceba7-be9f-4a9d-9902-6f51bed634ab":{"physical_material":"db5dc618-2cfe-44e9-a319-69c503d090e7"}}]}],"0c3f4f29-0d53-4878-922a-cca7d6af7bb6":{"scene":"bf3ce953-d18c-94d2-716e-d1d838c8918c"},"dependencies":["93b53d4c-b2ff-7256-1a8c-51662b8afa46","774520f2-7ec8-7b3e-3948-ceacebbe2a18","db5dc618-2cfe-44e9-a319-69c503d090e7"],"thumbnailGuid":"219728a9-ae95-22f8-e534-034b713342af"}
+{
+    "guid": "bf3ce953-d18c-94d2-716e-d1d838c8918c",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "18b10c0a-9c85-4dd2-fb79-dbadb9268794",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "9f8afe3a-8aaf-7815-2ab2-be84e421b09a",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Bush 2x1 Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "771f0c40-622f-4cd5-8519-741ee7f249dd",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Bush 2x1 Leaves Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "2dd9ad24-ceea-90b0-6786-7c55266d7c3a",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Bush 2x1 Leaves"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "774520f2-7ec8-7b3e-3948-ceacebbe2a18",
+                                "material_instance": "93b53d4c-b2ff-7256-1a8c-51662b8afa46"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "774520f2-7ec8-7b3e-3948-ceacebbe2a18"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "bf3ce953-d18c-94d2-716e-d1d838c8918c"
+    },
+    "dependencies": [
+        "93b53d4c-b2ff-7256-1a8c-51662b8afa46",
+        "774520f2-7ec8-7b3e-3948-ceacebbe2a18",
+        "db5dc618-2cfe-44e9-a319-69c503d090e7"
+    ],
+    "thumbnailGuid": "219728a9-ae95-22f8-e534-034b713342af"
+}

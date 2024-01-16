@@ -1,1 +1,115 @@
-{"guid":"20ce67be-53ee-4583-4640-f62043f0e4ea","assetTypeGuid":"abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c","tags":["3db9a07a-f18a-4fe6-87e9-999ef466091a"],"typeGuid":"0c3f4f29-0d53-4878-922a-cca7d6af7bb6","instanceGuid":"e047ddc8-cbdb-39fa-0dbe-e6b2065b1821","data_components":[],"children":[{"typeGuid":"de8f8da2-d37f-41da-bc6e-580435fe605f","instanceGuid":"e3a8a7d7-0e8b-b824-b673-cb85a6830079","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Window Open Double Physics Body"},{"typeGuid":"653ee503-f473-47d2-be45-08a577d17b86","type":0}],"children":[{"typeGuid":"508647ca-01f3-4930-9e33-4562692b719f","instanceGuid":"35f722fa-590c-edb4-3dcb-6237f3f61ce7","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Window Open Double Highlights Collider"}],"children":[{"typeGuid":"de0b2bc1-2e72-4739-a749-f5281e0de55a","instanceGuid":"df30aef5-ce7f-773f-a01a-3a98d01ce9c4","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Window Open Double Highlights"}],"9f750482-b822-4d4b-be6a-9c135c614328":{"stages":["bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f","dfca0ef8-eded-4660-8adb-43c0aa8f4e60"]},"de0b2bc1-2e72-4739-a749-f5281e0de55a":{"mesh":"4b6413a3-0fe0-f32b-d7cc-a875ff271e36","material_instance":"b9708b9d-e385-fca9-9acd-a5a0560fadfe"}}],"508647ca-01f3-4930-9e33-4562692b719f":{"mesh":"4b6413a3-0fe0-f32b-d7cc-a875ff271e36"},"10dceba7-be9f-4a9d-9902-6f51bed634ab":{"physical_material":"db5dc618-2cfe-44e9-a319-69c503d090e7"}},{"typeGuid":"508647ca-01f3-4930-9e33-4562692b719f","instanceGuid":"645bf252-e498-1db1-f031-687d7d148e68","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Window Open Double Main Collider"}],"children":[{"typeGuid":"de0b2bc1-2e72-4739-a749-f5281e0de55a","instanceGuid":"55d266d1-e0fc-194d-40c6-a271954ad7f2","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Window Open Double Main"}],"9f750482-b822-4d4b-be6a-9c135c614328":{"stages":["bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f","dfca0ef8-eded-4660-8adb-43c0aa8f4e60"]},"de0b2bc1-2e72-4739-a749-f5281e0de55a":{"mesh":"4aa1850c-8fa1-e7da-d5dd-05a47a0626a7","material_instance":"8184c770-ec81-32e1-d00f-a7123a839c29"}}],"508647ca-01f3-4930-9e33-4562692b719f":{"mesh":"4aa1850c-8fa1-e7da-d5dd-05a47a0626a7"},"10dceba7-be9f-4a9d-9902-6f51bed634ab":{"physical_material":"db5dc618-2cfe-44e9-a319-69c503d090e7"}}]}],"0c3f4f29-0d53-4878-922a-cca7d6af7bb6":{"scene":"20ce67be-53ee-4583-4640-f62043f0e4ea"},"dependencies":["b9708b9d-e385-fca9-9acd-a5a0560fadfe","4b6413a3-0fe0-f32b-d7cc-a875ff271e36","db5dc618-2cfe-44e9-a319-69c503d090e7","8184c770-ec81-32e1-d00f-a7123a839c29","4aa1850c-8fa1-e7da-d5dd-05a47a0626a7"],"thumbnailGuid":"83e4d5ce-ec1d-3166-3934-3175cfc77af9"}
+{
+    "guid": "20ce67be-53ee-4583-4640-f62043f0e4ea",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "e047ddc8-cbdb-39fa-0dbe-e6b2065b1821",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "e3a8a7d7-0e8b-b824-b673-cb85a6830079",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Window Open Double Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "35f722fa-590c-edb4-3dcb-6237f3f61ce7",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Window Open Double Highlights Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "df30aef5-ce7f-773f-a01a-3a98d01ce9c4",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Window Open Double Highlights"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "4b6413a3-0fe0-f32b-d7cc-a875ff271e36",
+                                "material_instance": "b9708b9d-e385-fca9-9acd-a5a0560fadfe"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "4b6413a3-0fe0-f32b-d7cc-a875ff271e36"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                },
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "645bf252-e498-1db1-f031-687d7d148e68",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Window Open Double Main Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "55d266d1-e0fc-194d-40c6-a271954ad7f2",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Window Open Double Main"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "4aa1850c-8fa1-e7da-d5dd-05a47a0626a7",
+                                "material_instance": "8184c770-ec81-32e1-d00f-a7123a839c29"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "4aa1850c-8fa1-e7da-d5dd-05a47a0626a7"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "20ce67be-53ee-4583-4640-f62043f0e4ea"
+    },
+    "dependencies": [
+        "b9708b9d-e385-fca9-9acd-a5a0560fadfe",
+        "4b6413a3-0fe0-f32b-d7cc-a875ff271e36",
+        "db5dc618-2cfe-44e9-a319-69c503d090e7",
+        "8184c770-ec81-32e1-d00f-a7123a839c29",
+        "4aa1850c-8fa1-e7da-d5dd-05a47a0626a7"
+    ],
+    "thumbnailGuid": "83e4d5ce-ec1d-3166-3934-3175cfc77af9"
+}

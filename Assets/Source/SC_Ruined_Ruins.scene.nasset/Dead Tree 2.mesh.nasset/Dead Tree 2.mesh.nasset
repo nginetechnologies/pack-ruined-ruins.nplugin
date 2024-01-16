@@ -1,1 +1,75 @@
-{"guid":"c20e7f6b-3c0e-1dca-58b1-7a7a4f443b91","assetTypeGuid":"abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c","tags":["3db9a07a-f18a-4fe6-87e9-999ef466091a"],"typeGuid":"0c3f4f29-0d53-4878-922a-cca7d6af7bb6","instanceGuid":"a5c6e9cd-0035-a438-3615-e45dfac8a54e","data_components":[],"children":[{"typeGuid":"de8f8da2-d37f-41da-bc6e-580435fe605f","instanceGuid":"92dd5b98-1e9e-949f-b678-963ab5ec648b","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Dead Tree 2 Physics Body"},{"typeGuid":"653ee503-f473-47d2-be45-08a577d17b86","type":0}],"children":[{"typeGuid":"508647ca-01f3-4930-9e33-4562692b719f","instanceGuid":"e18b112a-5730-a593-e2f2-b6d0d304a6af","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Dead Tree 2 Bark Collider"}],"children":[{"typeGuid":"de0b2bc1-2e72-4739-a749-f5281e0de55a","instanceGuid":"733a8dcd-aaa4-bc0f-5a16-9fe4facc6ecb","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Dead Tree 2 Bark"}],"9f750482-b822-4d4b-be6a-9c135c614328":{"stages":["bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f","dfca0ef8-eded-4660-8adb-43c0aa8f4e60"]},"de0b2bc1-2e72-4739-a749-f5281e0de55a":{"mesh":"67635e44-6152-ed0b-2a4c-3c662220a112","material_instance":"d9b3d1ae-a7a0-0fd5-3b8a-0b00c5e592bd"}}],"508647ca-01f3-4930-9e33-4562692b719f":{"mesh":"67635e44-6152-ed0b-2a4c-3c662220a112"},"10dceba7-be9f-4a9d-9902-6f51bed634ab":{"physical_material":"db5dc618-2cfe-44e9-a319-69c503d090e7"}}]}],"0c3f4f29-0d53-4878-922a-cca7d6af7bb6":{"scene":"c20e7f6b-3c0e-1dca-58b1-7a7a4f443b91"},"dependencies":["d9b3d1ae-a7a0-0fd5-3b8a-0b00c5e592bd","67635e44-6152-ed0b-2a4c-3c662220a112","db5dc618-2cfe-44e9-a319-69c503d090e7"],"thumbnailGuid":"ecb48139-259b-e773-59ce-78220250a161"}
+{
+    "guid": "c20e7f6b-3c0e-1dca-58b1-7a7a4f443b91",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "a5c6e9cd-0035-a438-3615-e45dfac8a54e",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "92dd5b98-1e9e-949f-b678-963ab5ec648b",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Dead Tree 2 Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "e18b112a-5730-a593-e2f2-b6d0d304a6af",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Dead Tree 2 Bark Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "733a8dcd-aaa4-bc0f-5a16-9fe4facc6ecb",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Dead Tree 2 Bark"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "67635e44-6152-ed0b-2a4c-3c662220a112",
+                                "material_instance": "d9b3d1ae-a7a0-0fd5-3b8a-0b00c5e592bd"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "67635e44-6152-ed0b-2a4c-3c662220a112"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "c20e7f6b-3c0e-1dca-58b1-7a7a4f443b91"
+    },
+    "dependencies": [
+        "d9b3d1ae-a7a0-0fd5-3b8a-0b00c5e592bd",
+        "67635e44-6152-ed0b-2a4c-3c662220a112",
+        "db5dc618-2cfe-44e9-a319-69c503d090e7"
+    ],
+    "thumbnailGuid": "ecb48139-259b-e773-59ce-78220250a161"
+}

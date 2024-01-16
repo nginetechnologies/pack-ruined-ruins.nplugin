@@ -1,1 +1,195 @@
-{"guid":"cef70994-b3bc-d9bd-a3e9-34f497cfb742","assetTypeGuid":"abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c","tags":["3db9a07a-f18a-4fe6-87e9-999ef466091a"],"typeGuid":"0c3f4f29-0d53-4878-922a-cca7d6af7bb6","instanceGuid":"a43fa2c7-38f2-67e8-5477-26c907c0bc53","data_components":[],"children":[{"typeGuid":"de8f8da2-d37f-41da-bc6e-580435fe605f","instanceGuid":"f15ce907-f63f-d0bd-88ab-9b18f382b64a","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Trapdoor Physics Body"},{"typeGuid":"653ee503-f473-47d2-be45-08a577d17b86","type":0}],"children":[{"typeGuid":"508647ca-01f3-4930-9e33-4562692b719f","instanceGuid":"8f1a5367-3c2c-6823-3a25-5270c4609254","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Trapdoor Metal Collider"}],"children":[{"typeGuid":"de0b2bc1-2e72-4739-a749-f5281e0de55a","instanceGuid":"f22b1019-0d8d-007e-3a0b-fe6994819ac0","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Trapdoor Metal"}],"9f750482-b822-4d4b-be6a-9c135c614328":{"stages":["bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f","dfca0ef8-eded-4660-8adb-43c0aa8f4e60"]},"de0b2bc1-2e72-4739-a749-f5281e0de55a":{"mesh":"c2e58a7a-8cd8-b590-af0e-287e21d1e519","material_instance":"5ef0faca-7ae3-1610-6747-6e8ce4cdd901"}}],"508647ca-01f3-4930-9e33-4562692b719f":{"mesh":"c2e58a7a-8cd8-b590-af0e-287e21d1e519"},"10dceba7-be9f-4a9d-9902-6f51bed634ab":{"physical_material":"db5dc618-2cfe-44e9-a319-69c503d090e7"}},{"typeGuid":"508647ca-01f3-4930-9e33-4562692b719f","instanceGuid":"9d92a03d-c1a6-1b16-55f2-260a81602420","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Trapdoor Wood Dark Collider"}],"children":[{"typeGuid":"de0b2bc1-2e72-4739-a749-f5281e0de55a","instanceGuid":"2081ed06-c770-c525-04c2-0a985136409b","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Trapdoor Wood Dark"}],"9f750482-b822-4d4b-be6a-9c135c614328":{"stages":["bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f","dfca0ef8-eded-4660-8adb-43c0aa8f4e60"]},"de0b2bc1-2e72-4739-a749-f5281e0de55a":{"mesh":"84f2731c-cfa9-3f61-cfcb-d7b09c5f0ec5","material_instance":"5568bda7-daba-c06d-4321-2d6b46d5014a"}}],"508647ca-01f3-4930-9e33-4562692b719f":{"mesh":"84f2731c-cfa9-3f61-cfcb-d7b09c5f0ec5"},"10dceba7-be9f-4a9d-9902-6f51bed634ab":{"physical_material":"db5dc618-2cfe-44e9-a319-69c503d090e7"}},{"typeGuid":"508647ca-01f3-4930-9e33-4562692b719f","instanceGuid":"2217415c-209d-24f9-beef-1980873964f9","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Trapdoor Wood Collider"}],"children":[{"typeGuid":"de0b2bc1-2e72-4739-a749-f5281e0de55a","instanceGuid":"936283bc-bd19-a5f4-81d8-4fc63d831d65","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Trapdoor Wood"}],"9f750482-b822-4d4b-be6a-9c135c614328":{"stages":["bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f","dfca0ef8-eded-4660-8adb-43c0aa8f4e60"]},"de0b2bc1-2e72-4739-a749-f5281e0de55a":{"mesh":"49d203d7-6363-fe4d-64ca-d5f9c2ddcbc8","material_instance":"04af73dc-28a6-30ee-3e61-e7e76592dfb9"}}],"508647ca-01f3-4930-9e33-4562692b719f":{"mesh":"49d203d7-6363-fe4d-64ca-d5f9c2ddcbc8"},"10dceba7-be9f-4a9d-9902-6f51bed634ab":{"physical_material":"db5dc618-2cfe-44e9-a319-69c503d090e7"}},{"typeGuid":"508647ca-01f3-4930-9e33-4562692b719f","instanceGuid":"75447d98-6c84-c05c-d89c-8f8c71df7e02","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Trapdoor Black Collider"}],"children":[{"typeGuid":"de0b2bc1-2e72-4739-a749-f5281e0de55a","instanceGuid":"1e4e2849-1402-c8c6-95b3-f6707b991b4a","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Trapdoor Black"}],"9f750482-b822-4d4b-be6a-9c135c614328":{"stages":["bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f","dfca0ef8-eded-4660-8adb-43c0aa8f4e60"]},"de0b2bc1-2e72-4739-a749-f5281e0de55a":{"mesh":"5cb1a0a4-d986-ae7e-99fb-4567fcdfa9a6","material_instance":"09441966-77ac-6d9a-311f-7f8f5a6b9e1f"}}],"508647ca-01f3-4930-9e33-4562692b719f":{"mesh":"5cb1a0a4-d986-ae7e-99fb-4567fcdfa9a6"},"10dceba7-be9f-4a9d-9902-6f51bed634ab":{"physical_material":"db5dc618-2cfe-44e9-a319-69c503d090e7"}}]}],"0c3f4f29-0d53-4878-922a-cca7d6af7bb6":{"scene":"cef70994-b3bc-d9bd-a3e9-34f497cfb742"},"dependencies":["5ef0faca-7ae3-1610-6747-6e8ce4cdd901","c2e58a7a-8cd8-b590-af0e-287e21d1e519","db5dc618-2cfe-44e9-a319-69c503d090e7","5568bda7-daba-c06d-4321-2d6b46d5014a","84f2731c-cfa9-3f61-cfcb-d7b09c5f0ec5","04af73dc-28a6-30ee-3e61-e7e76592dfb9","49d203d7-6363-fe4d-64ca-d5f9c2ddcbc8","09441966-77ac-6d9a-311f-7f8f5a6b9e1f","5cb1a0a4-d986-ae7e-99fb-4567fcdfa9a6"],"thumbnailGuid":"85109911-564b-6e2f-8f7d-8b9f53944a79"}
+{
+    "guid": "cef70994-b3bc-d9bd-a3e9-34f497cfb742",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "a43fa2c7-38f2-67e8-5477-26c907c0bc53",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "f15ce907-f63f-d0bd-88ab-9b18f382b64a",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Trapdoor Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "8f1a5367-3c2c-6823-3a25-5270c4609254",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Trapdoor Metal Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "f22b1019-0d8d-007e-3a0b-fe6994819ac0",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Trapdoor Metal"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "c2e58a7a-8cd8-b590-af0e-287e21d1e519",
+                                "material_instance": "5ef0faca-7ae3-1610-6747-6e8ce4cdd901"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "c2e58a7a-8cd8-b590-af0e-287e21d1e519"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                },
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "9d92a03d-c1a6-1b16-55f2-260a81602420",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Trapdoor Wood Dark Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "2081ed06-c770-c525-04c2-0a985136409b",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Trapdoor Wood Dark"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "84f2731c-cfa9-3f61-cfcb-d7b09c5f0ec5",
+                                "material_instance": "5568bda7-daba-c06d-4321-2d6b46d5014a"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "84f2731c-cfa9-3f61-cfcb-d7b09c5f0ec5"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                },
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "2217415c-209d-24f9-beef-1980873964f9",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Trapdoor Wood Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "936283bc-bd19-a5f4-81d8-4fc63d831d65",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Trapdoor Wood"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "49d203d7-6363-fe4d-64ca-d5f9c2ddcbc8",
+                                "material_instance": "04af73dc-28a6-30ee-3e61-e7e76592dfb9"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "49d203d7-6363-fe4d-64ca-d5f9c2ddcbc8"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                },
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "75447d98-6c84-c05c-d89c-8f8c71df7e02",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Trapdoor Black Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "1e4e2849-1402-c8c6-95b3-f6707b991b4a",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Trapdoor Black"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "5cb1a0a4-d986-ae7e-99fb-4567fcdfa9a6",
+                                "material_instance": "09441966-77ac-6d9a-311f-7f8f5a6b9e1f"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "5cb1a0a4-d986-ae7e-99fb-4567fcdfa9a6"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "cef70994-b3bc-d9bd-a3e9-34f497cfb742"
+    },
+    "dependencies": [
+        "5ef0faca-7ae3-1610-6747-6e8ce4cdd901",
+        "c2e58a7a-8cd8-b590-af0e-287e21d1e519",
+        "db5dc618-2cfe-44e9-a319-69c503d090e7",
+        "5568bda7-daba-c06d-4321-2d6b46d5014a",
+        "84f2731c-cfa9-3f61-cfcb-d7b09c5f0ec5",
+        "04af73dc-28a6-30ee-3e61-e7e76592dfb9",
+        "49d203d7-6363-fe4d-64ca-d5f9c2ddcbc8",
+        "09441966-77ac-6d9a-311f-7f8f5a6b9e1f",
+        "5cb1a0a4-d986-ae7e-99fb-4567fcdfa9a6"
+    ],
+    "thumbnailGuid": "85109911-564b-6e2f-8f7d-8b9f53944a79"
+}

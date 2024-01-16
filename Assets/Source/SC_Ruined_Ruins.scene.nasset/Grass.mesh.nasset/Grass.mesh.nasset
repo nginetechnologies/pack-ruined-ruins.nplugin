@@ -1,1 +1,75 @@
-{"guid":"99a8f750-0bc9-8c39-339e-8bd1ae43e1c5","assetTypeGuid":"abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c","tags":["3db9a07a-f18a-4fe6-87e9-999ef466091a"],"typeGuid":"0c3f4f29-0d53-4878-922a-cca7d6af7bb6","instanceGuid":"df0ccb6d-6257-f351-d2ad-00cc7e5d55a4","data_components":[],"children":[{"typeGuid":"de8f8da2-d37f-41da-bc6e-580435fe605f","instanceGuid":"f63a3720-eb8b-77c6-00c8-5227308507f2","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Grass Physics Body"},{"typeGuid":"653ee503-f473-47d2-be45-08a577d17b86","type":0}],"children":[{"typeGuid":"508647ca-01f3-4930-9e33-4562692b719f","instanceGuid":"682cbd01-4092-a3d8-6c86-6c6109d06d06","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Grass Green Collider"}],"children":[{"typeGuid":"de0b2bc1-2e72-4739-a749-f5281e0de55a","instanceGuid":"f8dbb067-0e13-63a8-60a2-e5017e57960d","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Grass Green"}],"9f750482-b822-4d4b-be6a-9c135c614328":{"stages":["bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f","dfca0ef8-eded-4660-8adb-43c0aa8f4e60"]},"de0b2bc1-2e72-4739-a749-f5281e0de55a":{"mesh":"e8108700-4103-7156-7890-0406f6b73d33","material_instance":"e8bb1b8c-ab1c-bfca-b234-5f16099768fd"}}],"508647ca-01f3-4930-9e33-4562692b719f":{"mesh":"e8108700-4103-7156-7890-0406f6b73d33"},"10dceba7-be9f-4a9d-9902-6f51bed634ab":{"physical_material":"db5dc618-2cfe-44e9-a319-69c503d090e7"}}]}],"0c3f4f29-0d53-4878-922a-cca7d6af7bb6":{"scene":"99a8f750-0bc9-8c39-339e-8bd1ae43e1c5"},"dependencies":["e8bb1b8c-ab1c-bfca-b234-5f16099768fd","e8108700-4103-7156-7890-0406f6b73d33","db5dc618-2cfe-44e9-a319-69c503d090e7"],"thumbnailGuid":"fc1ce4dc-ccab-6af9-b8d8-0628c82e6e1b"}
+{
+    "guid": "99a8f750-0bc9-8c39-339e-8bd1ae43e1c5",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "df0ccb6d-6257-f351-d2ad-00cc7e5d55a4",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "f63a3720-eb8b-77c6-00c8-5227308507f2",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Grass Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "682cbd01-4092-a3d8-6c86-6c6109d06d06",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Grass Green Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "f8dbb067-0e13-63a8-60a2-e5017e57960d",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Grass Green"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "e8108700-4103-7156-7890-0406f6b73d33",
+                                "material_instance": "e8bb1b8c-ab1c-bfca-b234-5f16099768fd"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "e8108700-4103-7156-7890-0406f6b73d33"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "99a8f750-0bc9-8c39-339e-8bd1ae43e1c5"
+    },
+    "dependencies": [
+        "e8bb1b8c-ab1c-bfca-b234-5f16099768fd",
+        "e8108700-4103-7156-7890-0406f6b73d33",
+        "db5dc618-2cfe-44e9-a319-69c503d090e7"
+    ],
+    "thumbnailGuid": "fc1ce4dc-ccab-6af9-b8d8-0628c82e6e1b"
+}

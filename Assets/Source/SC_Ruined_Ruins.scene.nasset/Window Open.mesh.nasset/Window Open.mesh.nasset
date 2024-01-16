@@ -1,1 +1,115 @@
-{"guid":"802667ae-8b0b-5834-1b0c-1da9fd3123f0","assetTypeGuid":"abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c","tags":["3db9a07a-f18a-4fe6-87e9-999ef466091a"],"typeGuid":"0c3f4f29-0d53-4878-922a-cca7d6af7bb6","instanceGuid":"0c5dc8eb-87bb-ca4a-454b-8f1456568f97","data_components":[],"children":[{"typeGuid":"de8f8da2-d37f-41da-bc6e-580435fe605f","instanceGuid":"24f0057f-0ff6-8f2a-f2b5-171894c3aea0","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Window Open Physics Body"},{"typeGuid":"653ee503-f473-47d2-be45-08a577d17b86","type":0}],"children":[{"typeGuid":"508647ca-01f3-4930-9e33-4562692b719f","instanceGuid":"aec55c4d-a272-aa97-0de7-1f1fe2450865","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Window Open Highlights Collider"}],"children":[{"typeGuid":"de0b2bc1-2e72-4739-a749-f5281e0de55a","instanceGuid":"433a0da7-9ef7-69cd-5344-299a183ebd95","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Window Open Highlights"}],"9f750482-b822-4d4b-be6a-9c135c614328":{"stages":["bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f","dfca0ef8-eded-4660-8adb-43c0aa8f4e60"]},"de0b2bc1-2e72-4739-a749-f5281e0de55a":{"mesh":"a4646e55-944b-23d4-610d-294dc195c3cc","material_instance":"b9708b9d-e385-fca9-9acd-a5a0560fadfe"}}],"508647ca-01f3-4930-9e33-4562692b719f":{"mesh":"a4646e55-944b-23d4-610d-294dc195c3cc"},"10dceba7-be9f-4a9d-9902-6f51bed634ab":{"physical_material":"db5dc618-2cfe-44e9-a319-69c503d090e7"}},{"typeGuid":"508647ca-01f3-4930-9e33-4562692b719f","instanceGuid":"d412e8f7-e2ff-eac6-4bba-552bba71fa35","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Window Open Main Collider"}],"children":[{"typeGuid":"de0b2bc1-2e72-4739-a749-f5281e0de55a","instanceGuid":"dded3e3d-c985-53b0-f06e-97507f6db13c","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Window Open Main"}],"9f750482-b822-4d4b-be6a-9c135c614328":{"stages":["bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f","dfca0ef8-eded-4660-8adb-43c0aa8f4e60"]},"de0b2bc1-2e72-4739-a749-f5281e0de55a":{"mesh":"16762e2e-4ac9-9fcf-4840-3431f38f2c5c","material_instance":"8184c770-ec81-32e1-d00f-a7123a839c29"}}],"508647ca-01f3-4930-9e33-4562692b719f":{"mesh":"16762e2e-4ac9-9fcf-4840-3431f38f2c5c"},"10dceba7-be9f-4a9d-9902-6f51bed634ab":{"physical_material":"db5dc618-2cfe-44e9-a319-69c503d090e7"}}]}],"0c3f4f29-0d53-4878-922a-cca7d6af7bb6":{"scene":"802667ae-8b0b-5834-1b0c-1da9fd3123f0"},"dependencies":["b9708b9d-e385-fca9-9acd-a5a0560fadfe","a4646e55-944b-23d4-610d-294dc195c3cc","db5dc618-2cfe-44e9-a319-69c503d090e7","8184c770-ec81-32e1-d00f-a7123a839c29","16762e2e-4ac9-9fcf-4840-3431f38f2c5c"],"thumbnailGuid":"7377a200-135a-3a2b-7281-5bedbf8af0d0"}
+{
+    "guid": "802667ae-8b0b-5834-1b0c-1da9fd3123f0",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "0c5dc8eb-87bb-ca4a-454b-8f1456568f97",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "24f0057f-0ff6-8f2a-f2b5-171894c3aea0",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Window Open Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "aec55c4d-a272-aa97-0de7-1f1fe2450865",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Window Open Highlights Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "433a0da7-9ef7-69cd-5344-299a183ebd95",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Window Open Highlights"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "a4646e55-944b-23d4-610d-294dc195c3cc",
+                                "material_instance": "b9708b9d-e385-fca9-9acd-a5a0560fadfe"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "a4646e55-944b-23d4-610d-294dc195c3cc"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                },
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "d412e8f7-e2ff-eac6-4bba-552bba71fa35",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Window Open Main Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "dded3e3d-c985-53b0-f06e-97507f6db13c",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Window Open Main"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "16762e2e-4ac9-9fcf-4840-3431f38f2c5c",
+                                "material_instance": "8184c770-ec81-32e1-d00f-a7123a839c29"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "16762e2e-4ac9-9fcf-4840-3431f38f2c5c"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "802667ae-8b0b-5834-1b0c-1da9fd3123f0"
+    },
+    "dependencies": [
+        "b9708b9d-e385-fca9-9acd-a5a0560fadfe",
+        "a4646e55-944b-23d4-610d-294dc195c3cc",
+        "db5dc618-2cfe-44e9-a319-69c503d090e7",
+        "8184c770-ec81-32e1-d00f-a7123a839c29",
+        "16762e2e-4ac9-9fcf-4840-3431f38f2c5c"
+    ],
+    "thumbnailGuid": "7377a200-135a-3a2b-7281-5bedbf8af0d0"
+}

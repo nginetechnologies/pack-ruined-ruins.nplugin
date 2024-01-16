@@ -1,1 +1,115 @@
-{"guid":"474a6504-611a-42fa-ec80-2c0d60e934c0","assetTypeGuid":"abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c","tags":["3db9a07a-f18a-4fe6-87e9-999ef466091a"],"typeGuid":"0c3f4f29-0d53-4878-922a-cca7d6af7bb6","instanceGuid":"cc3d2099-79c2-b6bb-6c71-ed7681493379","data_components":[],"children":[{"typeGuid":"de8f8da2-d37f-41da-bc6e-580435fe605f","instanceGuid":"0835f346-94cd-44ed-35ab-b6f3f2867746","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Bookcase Empty Physics Body"},{"typeGuid":"653ee503-f473-47d2-be45-08a577d17b86","type":0}],"children":[{"typeGuid":"508647ca-01f3-4930-9e33-4562692b719f","instanceGuid":"8e44c28e-7f3a-fed5-8cb6-883a44189e46","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Bookcase Empty Wood Collider"}],"children":[{"typeGuid":"de0b2bc1-2e72-4739-a749-f5281e0de55a","instanceGuid":"3346e545-72a4-028d-b092-435387abdfdf","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Bookcase Empty Wood"}],"9f750482-b822-4d4b-be6a-9c135c614328":{"stages":["bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f","dfca0ef8-eded-4660-8adb-43c0aa8f4e60"]},"de0b2bc1-2e72-4739-a749-f5281e0de55a":{"mesh":"e62e3569-25ff-bef9-604d-f79a02a22bd0","material_instance":"04af73dc-28a6-30ee-3e61-e7e76592dfb9"}}],"508647ca-01f3-4930-9e33-4562692b719f":{"mesh":"e62e3569-25ff-bef9-604d-f79a02a22bd0"},"10dceba7-be9f-4a9d-9902-6f51bed634ab":{"physical_material":"db5dc618-2cfe-44e9-a319-69c503d090e7"}},{"typeGuid":"508647ca-01f3-4930-9e33-4562692b719f","instanceGuid":"6ea8b702-7748-db03-e366-da5ed8826322","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Bookcase Empty Wood Dark Collider"}],"children":[{"typeGuid":"de0b2bc1-2e72-4739-a749-f5281e0de55a","instanceGuid":"7b5fddc1-bfa7-cc0e-a269-b14742405034","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Bookcase Empty Wood Dark"}],"9f750482-b822-4d4b-be6a-9c135c614328":{"stages":["bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f","dfca0ef8-eded-4660-8adb-43c0aa8f4e60"]},"de0b2bc1-2e72-4739-a749-f5281e0de55a":{"mesh":"bd522880-93b7-1869-20cb-cfc35c5580ea","material_instance":"5568bda7-daba-c06d-4321-2d6b46d5014a"}}],"508647ca-01f3-4930-9e33-4562692b719f":{"mesh":"bd522880-93b7-1869-20cb-cfc35c5580ea"},"10dceba7-be9f-4a9d-9902-6f51bed634ab":{"physical_material":"db5dc618-2cfe-44e9-a319-69c503d090e7"}}]}],"0c3f4f29-0d53-4878-922a-cca7d6af7bb6":{"scene":"474a6504-611a-42fa-ec80-2c0d60e934c0"},"dependencies":["04af73dc-28a6-30ee-3e61-e7e76592dfb9","e62e3569-25ff-bef9-604d-f79a02a22bd0","db5dc618-2cfe-44e9-a319-69c503d090e7","5568bda7-daba-c06d-4321-2d6b46d5014a","bd522880-93b7-1869-20cb-cfc35c5580ea"],"thumbnailGuid":"8acd9df2-2e88-98df-461a-b91848332af8"}
+{
+    "guid": "474a6504-611a-42fa-ec80-2c0d60e934c0",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "cc3d2099-79c2-b6bb-6c71-ed7681493379",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "0835f346-94cd-44ed-35ab-b6f3f2867746",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Bookcase Empty Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "8e44c28e-7f3a-fed5-8cb6-883a44189e46",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Bookcase Empty Wood Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "3346e545-72a4-028d-b092-435387abdfdf",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Bookcase Empty Wood"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "e62e3569-25ff-bef9-604d-f79a02a22bd0",
+                                "material_instance": "04af73dc-28a6-30ee-3e61-e7e76592dfb9"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "e62e3569-25ff-bef9-604d-f79a02a22bd0"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                },
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "6ea8b702-7748-db03-e366-da5ed8826322",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Bookcase Empty Wood Dark Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "7b5fddc1-bfa7-cc0e-a269-b14742405034",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Bookcase Empty Wood Dark"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "bd522880-93b7-1869-20cb-cfc35c5580ea",
+                                "material_instance": "5568bda7-daba-c06d-4321-2d6b46d5014a"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "bd522880-93b7-1869-20cb-cfc35c5580ea"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "474a6504-611a-42fa-ec80-2c0d60e934c0"
+    },
+    "dependencies": [
+        "04af73dc-28a6-30ee-3e61-e7e76592dfb9",
+        "e62e3569-25ff-bef9-604d-f79a02a22bd0",
+        "db5dc618-2cfe-44e9-a319-69c503d090e7",
+        "5568bda7-daba-c06d-4321-2d6b46d5014a",
+        "bd522880-93b7-1869-20cb-cfc35c5580ea"
+    ],
+    "thumbnailGuid": "8acd9df2-2e88-98df-461a-b91848332af8"
+}

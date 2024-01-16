@@ -1,1 +1,115 @@
-{"guid":"2562f813-44c4-cead-a306-41d1e07bd14f","assetTypeGuid":"abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c","tags":["3db9a07a-f18a-4fe6-87e9-999ef466091a"],"typeGuid":"0c3f4f29-0d53-4878-922a-cca7d6af7bb6","instanceGuid":"f2950135-fc28-3f4c-c9cb-5e152b3cfc40","data_components":[],"children":[{"typeGuid":"de8f8da2-d37f-41da-bc6e-580435fe605f","instanceGuid":"8a2cee9d-33e5-157a-ec38-2e54f1849f25","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Bridge Physics Body"},{"typeGuid":"653ee503-f473-47d2-be45-08a577d17b86","type":0}],"children":[{"typeGuid":"508647ca-01f3-4930-9e33-4562692b719f","instanceGuid":"0baee590-bc9d-9507-17d7-67387f0891a8","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Bridge Main Collider"}],"children":[{"typeGuid":"de0b2bc1-2e72-4739-a749-f5281e0de55a","instanceGuid":"95ed7310-d32c-c9fc-4766-206f267ea514","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Bridge Main"}],"9f750482-b822-4d4b-be6a-9c135c614328":{"stages":["bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f","dfca0ef8-eded-4660-8adb-43c0aa8f4e60"]},"de0b2bc1-2e72-4739-a749-f5281e0de55a":{"mesh":"0c18b03d-6a6e-d463-034f-86dd9c59860d","material_instance":"8184c770-ec81-32e1-d00f-a7123a839c29"}}],"508647ca-01f3-4930-9e33-4562692b719f":{"mesh":"0c18b03d-6a6e-d463-034f-86dd9c59860d"},"10dceba7-be9f-4a9d-9902-6f51bed634ab":{"physical_material":"db5dc618-2cfe-44e9-a319-69c503d090e7"}},{"typeGuid":"508647ca-01f3-4930-9e33-4562692b719f","instanceGuid":"76441400-4e8f-6e0f-87b5-0fde92926c0d","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Bridge Highlights Collider"}],"children":[{"typeGuid":"de0b2bc1-2e72-4739-a749-f5281e0de55a","instanceGuid":"5532c025-88be-572f-77c4-b91932495a75","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Bridge Highlights"}],"9f750482-b822-4d4b-be6a-9c135c614328":{"stages":["bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f","dfca0ef8-eded-4660-8adb-43c0aa8f4e60"]},"de0b2bc1-2e72-4739-a749-f5281e0de55a":{"mesh":"2e17e40e-ee31-b9ff-23dc-0a93027f25b1","material_instance":"b9708b9d-e385-fca9-9acd-a5a0560fadfe"}}],"508647ca-01f3-4930-9e33-4562692b719f":{"mesh":"2e17e40e-ee31-b9ff-23dc-0a93027f25b1"},"10dceba7-be9f-4a9d-9902-6f51bed634ab":{"physical_material":"db5dc618-2cfe-44e9-a319-69c503d090e7"}}]}],"0c3f4f29-0d53-4878-922a-cca7d6af7bb6":{"scene":"2562f813-44c4-cead-a306-41d1e07bd14f"},"dependencies":["8184c770-ec81-32e1-d00f-a7123a839c29","0c18b03d-6a6e-d463-034f-86dd9c59860d","db5dc618-2cfe-44e9-a319-69c503d090e7","b9708b9d-e385-fca9-9acd-a5a0560fadfe","2e17e40e-ee31-b9ff-23dc-0a93027f25b1"],"thumbnailGuid":"3db2590f-988e-9614-6ee0-8b7d0c97913c"}
+{
+    "guid": "2562f813-44c4-cead-a306-41d1e07bd14f",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "f2950135-fc28-3f4c-c9cb-5e152b3cfc40",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "8a2cee9d-33e5-157a-ec38-2e54f1849f25",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Bridge Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "0baee590-bc9d-9507-17d7-67387f0891a8",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Bridge Main Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "95ed7310-d32c-c9fc-4766-206f267ea514",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Bridge Main"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "0c18b03d-6a6e-d463-034f-86dd9c59860d",
+                                "material_instance": "8184c770-ec81-32e1-d00f-a7123a839c29"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "0c18b03d-6a6e-d463-034f-86dd9c59860d"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                },
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "76441400-4e8f-6e0f-87b5-0fde92926c0d",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Bridge Highlights Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "5532c025-88be-572f-77c4-b91932495a75",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Bridge Highlights"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "2e17e40e-ee31-b9ff-23dc-0a93027f25b1",
+                                "material_instance": "b9708b9d-e385-fca9-9acd-a5a0560fadfe"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "2e17e40e-ee31-b9ff-23dc-0a93027f25b1"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "2562f813-44c4-cead-a306-41d1e07bd14f"
+    },
+    "dependencies": [
+        "8184c770-ec81-32e1-d00f-a7123a839c29",
+        "0c18b03d-6a6e-d463-034f-86dd9c59860d",
+        "db5dc618-2cfe-44e9-a319-69c503d090e7",
+        "b9708b9d-e385-fca9-9acd-a5a0560fadfe",
+        "2e17e40e-ee31-b9ff-23dc-0a93027f25b1"
+    ],
+    "thumbnailGuid": "3db2590f-988e-9614-6ee0-8b7d0c97913c"
+}

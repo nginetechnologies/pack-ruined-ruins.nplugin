@@ -3262,6 +3262,19 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "8da89465-111e-71ec-b0ae-8647a7dcbd0a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_Ruined_Ruins.scene.nasset/Water.mesh.nasset/Water.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "ba5455b9-e1be-6fba-a7f2-364e4748d6b8",
+            "a6dabaaa-21ef-d247-493d-1e3706a9861b",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "8dce5530-f7fb-5f80-d386-25a9155c9550": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -3671,6 +3684,10 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "a4d47397-27d3-a7b9-91ed-0824c1db8dd2": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/Water.mtli.nasset.tex.nasset"
+    },
     "a5435a26-a4de-7f0f-0ae6-2dc2b26abbcd": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -3731,6 +3748,18 @@
             "48bf25c7-9c8c-f4ab-1922-3cac1b7f26ec",
             "e8bb1b8c-ab1c-bfca-b234-5f16099768fd",
             "20115b67-1973-4901-fcfa-ecc6bf68a804"
+        ]
+    },
+    "a6dabaaa-21ef-d247-493d-1e3706a9861b": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Ruined_Ruins.scene.nasset/Water.mesh.nasset/Water Water.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "ba5455b9-e1be-6fba-a7f2-364e4748d6b8",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "a74b8d0f-43f3-276b-72d5-ab06b123d25e": {
@@ -4047,6 +4076,7 @@
     "ba5455b9-e1be-6fba-a7f2-364e4748d6b8": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Water.mtli.nasset",
+        "thumbnail": "a4d47397-27d3-a7b9-91ed-0824c1db8dd2",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -5046,7 +5076,8 @@
             "a6af7885-6e16-9bae-3f05-c188bf3e5197",
             "e53e62fc-5b11-8d93-adca-79e3e73bfb3d",
             "20ce67be-53ee-4583-4640-f62043f0e4ea",
-            "802667ae-8b0b-5834-1b0c-1da9fd3123f0"
+            "802667ae-8b0b-5834-1b0c-1da9fd3123f0",
+            "8da89465-111e-71ec-b0ae-8647a7dcbd0a"
         ]
     },
     "e50dd5d6-b6af-67ea-aea8-8ed1dd01b3c6": {

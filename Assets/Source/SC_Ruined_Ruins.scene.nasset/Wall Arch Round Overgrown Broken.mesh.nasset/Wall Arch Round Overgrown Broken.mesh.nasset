@@ -1,1 +1,195 @@
-{"guid":"6284a5f2-d9c0-7d9a-f228-34a0353aee55","assetTypeGuid":"abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c","tags":["3db9a07a-f18a-4fe6-87e9-999ef466091a"],"typeGuid":"0c3f4f29-0d53-4878-922a-cca7d6af7bb6","instanceGuid":"196e7721-5c80-8bd7-7289-4e02221bf727","data_components":[],"children":[{"typeGuid":"de8f8da2-d37f-41da-bc6e-580435fe605f","instanceGuid":"458312b0-2e59-b5f1-18c7-241b2a6fe0d9","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Wall Arch Round Overgrown Broken Physics Body"},{"typeGuid":"653ee503-f473-47d2-be45-08a577d17b86","type":0}],"children":[{"typeGuid":"508647ca-01f3-4930-9e33-4562692b719f","instanceGuid":"be0bc053-ca41-21a8-7499-4872c98585a6","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Wall Arch Round Overgrown Broken Highlights Collider"}],"children":[{"typeGuid":"de0b2bc1-2e72-4739-a749-f5281e0de55a","instanceGuid":"981ece04-e738-1694-c34a-bbd4a9f59110","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Wall Arch Round Overgrown Broken Highlights"}],"9f750482-b822-4d4b-be6a-9c135c614328":{"stages":["bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f","dfca0ef8-eded-4660-8adb-43c0aa8f4e60"]},"de0b2bc1-2e72-4739-a749-f5281e0de55a":{"mesh":"cb55e04c-6f36-f4c2-303f-a9991a62f3cd","material_instance":"b9708b9d-e385-fca9-9acd-a5a0560fadfe"}}],"508647ca-01f3-4930-9e33-4562692b719f":{"mesh":"cb55e04c-6f36-f4c2-303f-a9991a62f3cd"},"10dceba7-be9f-4a9d-9902-6f51bed634ab":{"physical_material":"db5dc618-2cfe-44e9-a319-69c503d090e7"}},{"typeGuid":"508647ca-01f3-4930-9e33-4562692b719f","instanceGuid":"5266fda6-9382-788b-6cdb-b20601e468b7","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Wall Arch Round Overgrown Broken Main Collider"}],"children":[{"typeGuid":"de0b2bc1-2e72-4739-a749-f5281e0de55a","instanceGuid":"a767bc9a-c89b-2b63-616f-57ee85f04643","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Wall Arch Round Overgrown Broken Main"}],"9f750482-b822-4d4b-be6a-9c135c614328":{"stages":["bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f","dfca0ef8-eded-4660-8adb-43c0aa8f4e60"]},"de0b2bc1-2e72-4739-a749-f5281e0de55a":{"mesh":"b498f2cd-99d7-fd53-6fc8-7ecc4a4270b0","material_instance":"8184c770-ec81-32e1-d00f-a7123a839c29"}}],"508647ca-01f3-4930-9e33-4562692b719f":{"mesh":"b498f2cd-99d7-fd53-6fc8-7ecc4a4270b0"},"10dceba7-be9f-4a9d-9902-6f51bed634ab":{"physical_material":"db5dc618-2cfe-44e9-a319-69c503d090e7"}},{"typeGuid":"508647ca-01f3-4930-9e33-4562692b719f","instanceGuid":"603f983d-4fd0-8f29-87b7-66d2bc1e4919","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Wall Arch Round Overgrown Broken Leaves Collider"}],"children":[{"typeGuid":"de0b2bc1-2e72-4739-a749-f5281e0de55a","instanceGuid":"dd9dff10-60c1-9b41-e7ac-039a80c53119","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Wall Arch Round Overgrown Broken Leaves"}],"9f750482-b822-4d4b-be6a-9c135c614328":{"stages":["bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f","dfca0ef8-eded-4660-8adb-43c0aa8f4e60"]},"de0b2bc1-2e72-4739-a749-f5281e0de55a":{"mesh":"f3dd6c00-3a56-bdb5-426b-48db2d348bc7","material_instance":"93b53d4c-b2ff-7256-1a8c-51662b8afa46"}}],"508647ca-01f3-4930-9e33-4562692b719f":{"mesh":"f3dd6c00-3a56-bdb5-426b-48db2d348bc7"},"10dceba7-be9f-4a9d-9902-6f51bed634ab":{"physical_material":"db5dc618-2cfe-44e9-a319-69c503d090e7"}},{"typeGuid":"508647ca-01f3-4930-9e33-4562692b719f","instanceGuid":"0c62c5d6-c49b-4e7d-39a6-604b8d2124c8","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Wall Arch Round Overgrown Broken Green Collider"}],"children":[{"typeGuid":"de0b2bc1-2e72-4739-a749-f5281e0de55a","instanceGuid":"20c9ba35-56f2-a3ac-f9f5-bea907957de8","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Wall Arch Round Overgrown Broken Green"}],"9f750482-b822-4d4b-be6a-9c135c614328":{"stages":["bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f","dfca0ef8-eded-4660-8adb-43c0aa8f4e60"]},"de0b2bc1-2e72-4739-a749-f5281e0de55a":{"mesh":"94f449a1-53ee-247a-1683-8171e6959f57","material_instance":"e8bb1b8c-ab1c-bfca-b234-5f16099768fd"}}],"508647ca-01f3-4930-9e33-4562692b719f":{"mesh":"94f449a1-53ee-247a-1683-8171e6959f57"},"10dceba7-be9f-4a9d-9902-6f51bed634ab":{"physical_material":"db5dc618-2cfe-44e9-a319-69c503d090e7"}}]}],"0c3f4f29-0d53-4878-922a-cca7d6af7bb6":{"scene":"6284a5f2-d9c0-7d9a-f228-34a0353aee55"},"dependencies":["b9708b9d-e385-fca9-9acd-a5a0560fadfe","cb55e04c-6f36-f4c2-303f-a9991a62f3cd","db5dc618-2cfe-44e9-a319-69c503d090e7","8184c770-ec81-32e1-d00f-a7123a839c29","b498f2cd-99d7-fd53-6fc8-7ecc4a4270b0","93b53d4c-b2ff-7256-1a8c-51662b8afa46","f3dd6c00-3a56-bdb5-426b-48db2d348bc7","e8bb1b8c-ab1c-bfca-b234-5f16099768fd","94f449a1-53ee-247a-1683-8171e6959f57"],"thumbnailGuid":"09c84d3d-b974-afb4-3c89-33c1862772f3"}
+{
+    "guid": "6284a5f2-d9c0-7d9a-f228-34a0353aee55",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "196e7721-5c80-8bd7-7289-4e02221bf727",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "458312b0-2e59-b5f1-18c7-241b2a6fe0d9",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Wall Arch Round Overgrown Broken Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "be0bc053-ca41-21a8-7499-4872c98585a6",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Wall Arch Round Overgrown Broken Highlights Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "981ece04-e738-1694-c34a-bbd4a9f59110",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Wall Arch Round Overgrown Broken Highlights"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "cb55e04c-6f36-f4c2-303f-a9991a62f3cd",
+                                "material_instance": "b9708b9d-e385-fca9-9acd-a5a0560fadfe"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "cb55e04c-6f36-f4c2-303f-a9991a62f3cd"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                },
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "5266fda6-9382-788b-6cdb-b20601e468b7",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Wall Arch Round Overgrown Broken Main Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "a767bc9a-c89b-2b63-616f-57ee85f04643",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Wall Arch Round Overgrown Broken Main"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "b498f2cd-99d7-fd53-6fc8-7ecc4a4270b0",
+                                "material_instance": "8184c770-ec81-32e1-d00f-a7123a839c29"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "b498f2cd-99d7-fd53-6fc8-7ecc4a4270b0"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                },
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "603f983d-4fd0-8f29-87b7-66d2bc1e4919",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Wall Arch Round Overgrown Broken Leaves Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "dd9dff10-60c1-9b41-e7ac-039a80c53119",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Wall Arch Round Overgrown Broken Leaves"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "f3dd6c00-3a56-bdb5-426b-48db2d348bc7",
+                                "material_instance": "93b53d4c-b2ff-7256-1a8c-51662b8afa46"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "f3dd6c00-3a56-bdb5-426b-48db2d348bc7"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                },
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "0c62c5d6-c49b-4e7d-39a6-604b8d2124c8",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Wall Arch Round Overgrown Broken Green Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "20c9ba35-56f2-a3ac-f9f5-bea907957de8",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Wall Arch Round Overgrown Broken Green"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "94f449a1-53ee-247a-1683-8171e6959f57",
+                                "material_instance": "e8bb1b8c-ab1c-bfca-b234-5f16099768fd"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "94f449a1-53ee-247a-1683-8171e6959f57"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "6284a5f2-d9c0-7d9a-f228-34a0353aee55"
+    },
+    "dependencies": [
+        "b9708b9d-e385-fca9-9acd-a5a0560fadfe",
+        "cb55e04c-6f36-f4c2-303f-a9991a62f3cd",
+        "db5dc618-2cfe-44e9-a319-69c503d090e7",
+        "8184c770-ec81-32e1-d00f-a7123a839c29",
+        "b498f2cd-99d7-fd53-6fc8-7ecc4a4270b0",
+        "93b53d4c-b2ff-7256-1a8c-51662b8afa46",
+        "f3dd6c00-3a56-bdb5-426b-48db2d348bc7",
+        "e8bb1b8c-ab1c-bfca-b234-5f16099768fd",
+        "94f449a1-53ee-247a-1683-8171e6959f57"
+    ],
+    "thumbnailGuid": "09c84d3d-b974-afb4-3c89-33c1862772f3"
+}

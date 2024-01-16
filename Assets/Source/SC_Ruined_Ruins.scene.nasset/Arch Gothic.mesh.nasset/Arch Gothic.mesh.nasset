@@ -1,1 +1,155 @@
-{"guid":"26d1d20e-796f-9bcb-96e7-bf4edfd0923c","assetTypeGuid":"abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c","tags":["3db9a07a-f18a-4fe6-87e9-999ef466091a"],"typeGuid":"0c3f4f29-0d53-4878-922a-cca7d6af7bb6","instanceGuid":"863bed99-36c9-34e1-c7a1-98d0bf365186","data_components":[],"children":[{"typeGuid":"de8f8da2-d37f-41da-bc6e-580435fe605f","instanceGuid":"95f13f4b-85a6-80ba-1463-96216275e62e","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Arch Gothic Physics Body"},{"typeGuid":"653ee503-f473-47d2-be45-08a577d17b86","type":0}],"children":[{"typeGuid":"508647ca-01f3-4930-9e33-4562692b719f","instanceGuid":"03e87eb2-a215-b6fd-b09b-93bf2798dfa7","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Arch Gothic Main Collider"}],"children":[{"typeGuid":"de0b2bc1-2e72-4739-a749-f5281e0de55a","instanceGuid":"7a67c8c1-d2cc-2f4a-fd8c-8241ebf735f8","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Arch Gothic Main"}],"9f750482-b822-4d4b-be6a-9c135c614328":{"stages":["bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f","dfca0ef8-eded-4660-8adb-43c0aa8f4e60"]},"de0b2bc1-2e72-4739-a749-f5281e0de55a":{"mesh":"ecf00fc5-af7f-0da1-18f9-72220dfb3dd8","material_instance":"8184c770-ec81-32e1-d00f-a7123a839c29"}}],"508647ca-01f3-4930-9e33-4562692b719f":{"mesh":"ecf00fc5-af7f-0da1-18f9-72220dfb3dd8"},"10dceba7-be9f-4a9d-9902-6f51bed634ab":{"physical_material":"db5dc618-2cfe-44e9-a319-69c503d090e7"}},{"typeGuid":"508647ca-01f3-4930-9e33-4562692b719f","instanceGuid":"dbfcdddd-82f0-ccda-992d-124905864f58","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Arch Gothic Highlights Collider"}],"children":[{"typeGuid":"de0b2bc1-2e72-4739-a749-f5281e0de55a","instanceGuid":"11701ba5-8ea7-1bc4-cbd2-5d3aa0d93547","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Arch Gothic Highlights"}],"9f750482-b822-4d4b-be6a-9c135c614328":{"stages":["bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f","dfca0ef8-eded-4660-8adb-43c0aa8f4e60"]},"de0b2bc1-2e72-4739-a749-f5281e0de55a":{"mesh":"d86dc901-7e54-5710-7069-9849a9efdfae","material_instance":"b9708b9d-e385-fca9-9acd-a5a0560fadfe"}}],"508647ca-01f3-4930-9e33-4562692b719f":{"mesh":"d86dc901-7e54-5710-7069-9849a9efdfae"},"10dceba7-be9f-4a9d-9902-6f51bed634ab":{"physical_material":"db5dc618-2cfe-44e9-a319-69c503d090e7"}},{"typeGuid":"508647ca-01f3-4930-9e33-4562692b719f","instanceGuid":"f078c211-cd78-0607-2eeb-563884e5a481","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Arch Gothic Black Collider"}],"children":[{"typeGuid":"de0b2bc1-2e72-4739-a749-f5281e0de55a","instanceGuid":"2d7fea9f-893c-9bea-b6f5-c36d924272ab","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Arch Gothic Black"}],"9f750482-b822-4d4b-be6a-9c135c614328":{"stages":["bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f","dfca0ef8-eded-4660-8adb-43c0aa8f4e60"]},"de0b2bc1-2e72-4739-a749-f5281e0de55a":{"mesh":"56d5603b-2e23-8c83-4c91-e12bd685dcbe","material_instance":"09441966-77ac-6d9a-311f-7f8f5a6b9e1f"}}],"508647ca-01f3-4930-9e33-4562692b719f":{"mesh":"56d5603b-2e23-8c83-4c91-e12bd685dcbe"},"10dceba7-be9f-4a9d-9902-6f51bed634ab":{"physical_material":"db5dc618-2cfe-44e9-a319-69c503d090e7"}}]}],"0c3f4f29-0d53-4878-922a-cca7d6af7bb6":{"scene":"26d1d20e-796f-9bcb-96e7-bf4edfd0923c"},"dependencies":["8184c770-ec81-32e1-d00f-a7123a839c29","ecf00fc5-af7f-0da1-18f9-72220dfb3dd8","db5dc618-2cfe-44e9-a319-69c503d090e7","b9708b9d-e385-fca9-9acd-a5a0560fadfe","d86dc901-7e54-5710-7069-9849a9efdfae","09441966-77ac-6d9a-311f-7f8f5a6b9e1f","56d5603b-2e23-8c83-4c91-e12bd685dcbe"],"thumbnailGuid":"d0576c92-83bf-14f1-1a80-0e80f6ee5d84"}
+{
+    "guid": "26d1d20e-796f-9bcb-96e7-bf4edfd0923c",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "863bed99-36c9-34e1-c7a1-98d0bf365186",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "95f13f4b-85a6-80ba-1463-96216275e62e",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Arch Gothic Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "03e87eb2-a215-b6fd-b09b-93bf2798dfa7",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Arch Gothic Main Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "7a67c8c1-d2cc-2f4a-fd8c-8241ebf735f8",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Arch Gothic Main"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "ecf00fc5-af7f-0da1-18f9-72220dfb3dd8",
+                                "material_instance": "8184c770-ec81-32e1-d00f-a7123a839c29"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "ecf00fc5-af7f-0da1-18f9-72220dfb3dd8"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                },
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "dbfcdddd-82f0-ccda-992d-124905864f58",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Arch Gothic Highlights Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "11701ba5-8ea7-1bc4-cbd2-5d3aa0d93547",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Arch Gothic Highlights"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "d86dc901-7e54-5710-7069-9849a9efdfae",
+                                "material_instance": "b9708b9d-e385-fca9-9acd-a5a0560fadfe"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "d86dc901-7e54-5710-7069-9849a9efdfae"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                },
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "f078c211-cd78-0607-2eeb-563884e5a481",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Arch Gothic Black Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "2d7fea9f-893c-9bea-b6f5-c36d924272ab",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Arch Gothic Black"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "56d5603b-2e23-8c83-4c91-e12bd685dcbe",
+                                "material_instance": "09441966-77ac-6d9a-311f-7f8f5a6b9e1f"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "56d5603b-2e23-8c83-4c91-e12bd685dcbe"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "26d1d20e-796f-9bcb-96e7-bf4edfd0923c"
+    },
+    "dependencies": [
+        "8184c770-ec81-32e1-d00f-a7123a839c29",
+        "ecf00fc5-af7f-0da1-18f9-72220dfb3dd8",
+        "db5dc618-2cfe-44e9-a319-69c503d090e7",
+        "b9708b9d-e385-fca9-9acd-a5a0560fadfe",
+        "d86dc901-7e54-5710-7069-9849a9efdfae",
+        "09441966-77ac-6d9a-311f-7f8f5a6b9e1f",
+        "56d5603b-2e23-8c83-4c91-e12bd685dcbe"
+    ],
+    "thumbnailGuid": "d0576c92-83bf-14f1-1a80-0e80f6ee5d84"
+}

@@ -1,1 +1,195 @@
-{"guid":"58dd4ccf-2946-8d98-1b0c-92138c6bcecc","assetTypeGuid":"abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c","tags":["3db9a07a-f18a-4fe6-87e9-999ef466091a"],"typeGuid":"0c3f4f29-0d53-4878-922a-cca7d6af7bb6","instanceGuid":"15b20553-33f1-d1bc-da90-c8b4ad9b3174","data_components":[],"children":[{"typeGuid":"de8f8da2-d37f-41da-bc6e-580435fe605f","instanceGuid":"b4ab9a05-57bb-287e-53d1-73d1648eaf30","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Doors Round Arch L Physics Body"},{"typeGuid":"653ee503-f473-47d2-be45-08a577d17b86","type":0}],"children":[{"typeGuid":"508647ca-01f3-4930-9e33-4562692b719f","instanceGuid":"5d25c5b6-95a7-1c17-faed-9c6290c81e55","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Doors Round Arch L Wood Dark Collider"}],"children":[{"typeGuid":"de0b2bc1-2e72-4739-a749-f5281e0de55a","instanceGuid":"90a2dafa-82ed-7fcd-426b-824bb24fbdec","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Doors Round Arch L Wood Dark"}],"9f750482-b822-4d4b-be6a-9c135c614328":{"stages":["bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f","dfca0ef8-eded-4660-8adb-43c0aa8f4e60"]},"de0b2bc1-2e72-4739-a749-f5281e0de55a":{"mesh":"386b0657-ec76-05df-387e-e09702d11fec","material_instance":"5568bda7-daba-c06d-4321-2d6b46d5014a"}}],"508647ca-01f3-4930-9e33-4562692b719f":{"mesh":"386b0657-ec76-05df-387e-e09702d11fec"},"10dceba7-be9f-4a9d-9902-6f51bed634ab":{"physical_material":"db5dc618-2cfe-44e9-a319-69c503d090e7"}},{"typeGuid":"508647ca-01f3-4930-9e33-4562692b719f","instanceGuid":"e6b2e2fb-f10a-85d0-2675-ea30dcfd75c1","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Doors Round Arch L Metal Collider"}],"children":[{"typeGuid":"de0b2bc1-2e72-4739-a749-f5281e0de55a","instanceGuid":"9e7492b5-1e30-18ab-2eb7-d4f2c2932543","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Doors Round Arch L Metal"}],"9f750482-b822-4d4b-be6a-9c135c614328":{"stages":["bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f","dfca0ef8-eded-4660-8adb-43c0aa8f4e60"]},"de0b2bc1-2e72-4739-a749-f5281e0de55a":{"mesh":"449d2f57-15a8-431c-ea03-5aaaaf86ea81","material_instance":"5ef0faca-7ae3-1610-6747-6e8ce4cdd901"}}],"508647ca-01f3-4930-9e33-4562692b719f":{"mesh":"449d2f57-15a8-431c-ea03-5aaaaf86ea81"},"10dceba7-be9f-4a9d-9902-6f51bed634ab":{"physical_material":"db5dc618-2cfe-44e9-a319-69c503d090e7"}},{"typeGuid":"508647ca-01f3-4930-9e33-4562692b719f","instanceGuid":"74fd896f-16ec-c1c5-982e-0e44c0a85d99","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Doors Round Arch L Wood Collider"}],"children":[{"typeGuid":"de0b2bc1-2e72-4739-a749-f5281e0de55a","instanceGuid":"16ecc031-5c1d-eda4-6caf-7f9fcf4f830f","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Doors Round Arch L Wood"}],"9f750482-b822-4d4b-be6a-9c135c614328":{"stages":["bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f","dfca0ef8-eded-4660-8adb-43c0aa8f4e60"]},"de0b2bc1-2e72-4739-a749-f5281e0de55a":{"mesh":"5e2d9828-e787-89c8-a5c8-215fe5ce6b42","material_instance":"04af73dc-28a6-30ee-3e61-e7e76592dfb9"}}],"508647ca-01f3-4930-9e33-4562692b719f":{"mesh":"5e2d9828-e787-89c8-a5c8-215fe5ce6b42"},"10dceba7-be9f-4a9d-9902-6f51bed634ab":{"physical_material":"db5dc618-2cfe-44e9-a319-69c503d090e7"}},{"typeGuid":"508647ca-01f3-4930-9e33-4562692b719f","instanceGuid":"2e04ed63-9072-d8ff-b341-47f481b53f1f","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Doors Round Arch L Metal Light Collider"}],"children":[{"typeGuid":"de0b2bc1-2e72-4739-a749-f5281e0de55a","instanceGuid":"9f19f65e-573a-bc2d-62af-f05e53d7659c","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Doors Round Arch L Metal Light"}],"9f750482-b822-4d4b-be6a-9c135c614328":{"stages":["bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f","dfca0ef8-eded-4660-8adb-43c0aa8f4e60"]},"de0b2bc1-2e72-4739-a749-f5281e0de55a":{"mesh":"ce8a39f0-2674-3047-fd5f-764055996b88","material_instance":"809b5115-7fdf-0355-eb53-5552db7e5579"}}],"508647ca-01f3-4930-9e33-4562692b719f":{"mesh":"ce8a39f0-2674-3047-fd5f-764055996b88"},"10dceba7-be9f-4a9d-9902-6f51bed634ab":{"physical_material":"db5dc618-2cfe-44e9-a319-69c503d090e7"}}]}],"0c3f4f29-0d53-4878-922a-cca7d6af7bb6":{"scene":"58dd4ccf-2946-8d98-1b0c-92138c6bcecc"},"dependencies":["5568bda7-daba-c06d-4321-2d6b46d5014a","386b0657-ec76-05df-387e-e09702d11fec","db5dc618-2cfe-44e9-a319-69c503d090e7","5ef0faca-7ae3-1610-6747-6e8ce4cdd901","449d2f57-15a8-431c-ea03-5aaaaf86ea81","04af73dc-28a6-30ee-3e61-e7e76592dfb9","5e2d9828-e787-89c8-a5c8-215fe5ce6b42","809b5115-7fdf-0355-eb53-5552db7e5579","ce8a39f0-2674-3047-fd5f-764055996b88"],"thumbnailGuid":"47dc21bc-bb41-1ccd-176e-2542d243dd28"}
+{
+    "guid": "58dd4ccf-2946-8d98-1b0c-92138c6bcecc",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "15b20553-33f1-d1bc-da90-c8b4ad9b3174",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "b4ab9a05-57bb-287e-53d1-73d1648eaf30",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Doors Round Arch L Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "5d25c5b6-95a7-1c17-faed-9c6290c81e55",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Doors Round Arch L Wood Dark Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "90a2dafa-82ed-7fcd-426b-824bb24fbdec",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Doors Round Arch L Wood Dark"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "386b0657-ec76-05df-387e-e09702d11fec",
+                                "material_instance": "5568bda7-daba-c06d-4321-2d6b46d5014a"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "386b0657-ec76-05df-387e-e09702d11fec"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                },
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "e6b2e2fb-f10a-85d0-2675-ea30dcfd75c1",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Doors Round Arch L Metal Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "9e7492b5-1e30-18ab-2eb7-d4f2c2932543",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Doors Round Arch L Metal"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "449d2f57-15a8-431c-ea03-5aaaaf86ea81",
+                                "material_instance": "5ef0faca-7ae3-1610-6747-6e8ce4cdd901"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "449d2f57-15a8-431c-ea03-5aaaaf86ea81"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                },
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "74fd896f-16ec-c1c5-982e-0e44c0a85d99",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Doors Round Arch L Wood Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "16ecc031-5c1d-eda4-6caf-7f9fcf4f830f",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Doors Round Arch L Wood"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "5e2d9828-e787-89c8-a5c8-215fe5ce6b42",
+                                "material_instance": "04af73dc-28a6-30ee-3e61-e7e76592dfb9"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "5e2d9828-e787-89c8-a5c8-215fe5ce6b42"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                },
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "2e04ed63-9072-d8ff-b341-47f481b53f1f",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Doors Round Arch L Metal Light Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "9f19f65e-573a-bc2d-62af-f05e53d7659c",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Doors Round Arch L Metal Light"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "ce8a39f0-2674-3047-fd5f-764055996b88",
+                                "material_instance": "809b5115-7fdf-0355-eb53-5552db7e5579"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "ce8a39f0-2674-3047-fd5f-764055996b88"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "58dd4ccf-2946-8d98-1b0c-92138c6bcecc"
+    },
+    "dependencies": [
+        "5568bda7-daba-c06d-4321-2d6b46d5014a",
+        "386b0657-ec76-05df-387e-e09702d11fec",
+        "db5dc618-2cfe-44e9-a319-69c503d090e7",
+        "5ef0faca-7ae3-1610-6747-6e8ce4cdd901",
+        "449d2f57-15a8-431c-ea03-5aaaaf86ea81",
+        "04af73dc-28a6-30ee-3e61-e7e76592dfb9",
+        "5e2d9828-e787-89c8-a5c8-215fe5ce6b42",
+        "809b5115-7fdf-0355-eb53-5552db7e5579",
+        "ce8a39f0-2674-3047-fd5f-764055996b88"
+    ],
+    "thumbnailGuid": "47dc21bc-bb41-1ccd-176e-2542d243dd28"
+}

@@ -1,1 +1,315 @@
-{"guid":"6d7fc969-b3ff-b8a9-36aa-e88610882b45","assetTypeGuid":"abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c","tags":["3db9a07a-f18a-4fe6-87e9-999ef466091a"],"typeGuid":"0c3f4f29-0d53-4878-922a-cca7d6af7bb6","instanceGuid":"98589483-53ea-55e8-df2b-a9f5f4019103","data_components":[],"children":[{"typeGuid":"de8f8da2-d37f-41da-bc6e-580435fe605f","instanceGuid":"25571a32-b342-f446-9300-342080551b32","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Bookcase Full Physics Body"},{"typeGuid":"653ee503-f473-47d2-be45-08a577d17b86","type":0}],"children":[{"typeGuid":"508647ca-01f3-4930-9e33-4562692b719f","instanceGuid":"2112bcf4-0516-df81-dae0-2caa28d208c4","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Bookcase Full Wood Collider"}],"children":[{"typeGuid":"de0b2bc1-2e72-4739-a749-f5281e0de55a","instanceGuid":"164c69b2-997a-af9d-e4d8-14a230810482","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Bookcase Full Wood"}],"9f750482-b822-4d4b-be6a-9c135c614328":{"stages":["bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f","dfca0ef8-eded-4660-8adb-43c0aa8f4e60"]},"de0b2bc1-2e72-4739-a749-f5281e0de55a":{"mesh":"6b768d50-2568-0756-5d73-a16d921bb58f","material_instance":"04af73dc-28a6-30ee-3e61-e7e76592dfb9"}}],"508647ca-01f3-4930-9e33-4562692b719f":{"mesh":"6b768d50-2568-0756-5d73-a16d921bb58f"},"10dceba7-be9f-4a9d-9902-6f51bed634ab":{"physical_material":"db5dc618-2cfe-44e9-a319-69c503d090e7"}},{"typeGuid":"508647ca-01f3-4930-9e33-4562692b719f","instanceGuid":"72dba21f-1513-c545-59f7-a33de7bbd04d","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Bookcase Full Wood Dark Collider"}],"children":[{"typeGuid":"de0b2bc1-2e72-4739-a749-f5281e0de55a","instanceGuid":"9f3d015a-ac48-6f20-6111-5080638bc0e7","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Bookcase Full Wood Dark"}],"9f750482-b822-4d4b-be6a-9c135c614328":{"stages":["bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f","dfca0ef8-eded-4660-8adb-43c0aa8f4e60"]},"de0b2bc1-2e72-4739-a749-f5281e0de55a":{"mesh":"d3caaba0-4ab5-5643-383a-326192624720","material_instance":"5568bda7-daba-c06d-4321-2d6b46d5014a"}}],"508647ca-01f3-4930-9e33-4562692b719f":{"mesh":"d3caaba0-4ab5-5643-383a-326192624720"},"10dceba7-be9f-4a9d-9902-6f51bed634ab":{"physical_material":"db5dc618-2cfe-44e9-a319-69c503d090e7"}},{"typeGuid":"508647ca-01f3-4930-9e33-4562692b719f","instanceGuid":"3a3c15f7-19f3-da7e-21c7-29b8a2fc522d","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Bookcase Full Book 2 Collider"}],"children":[{"typeGuid":"de0b2bc1-2e72-4739-a749-f5281e0de55a","instanceGuid":"9766e3d0-82f3-96df-1f98-7f3bc37268db","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Bookcase Full Book 2"}],"9f750482-b822-4d4b-be6a-9c135c614328":{"stages":["bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f","dfca0ef8-eded-4660-8adb-43c0aa8f4e60"]},"de0b2bc1-2e72-4739-a749-f5281e0de55a":{"mesh":"05d27998-196f-e79e-bb67-9e42d6841a32","material_instance":"a7837df8-466c-8406-1a1a-3d705679dd02"}}],"508647ca-01f3-4930-9e33-4562692b719f":{"mesh":"05d27998-196f-e79e-bb67-9e42d6841a32"},"10dceba7-be9f-4a9d-9902-6f51bed634ab":{"physical_material":"db5dc618-2cfe-44e9-a319-69c503d090e7"}},{"typeGuid":"508647ca-01f3-4930-9e33-4562692b719f","instanceGuid":"4c745c6b-cd09-061a-cdfd-8c2024ee8a70","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Bookcase Full Pages Collider"}],"children":[{"typeGuid":"de0b2bc1-2e72-4739-a749-f5281e0de55a","instanceGuid":"925e8d01-022e-c68f-3ca4-7e079ea2d048","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Bookcase Full Pages"}],"9f750482-b822-4d4b-be6a-9c135c614328":{"stages":["bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f","dfca0ef8-eded-4660-8adb-43c0aa8f4e60"]},"de0b2bc1-2e72-4739-a749-f5281e0de55a":{"mesh":"f61082ba-5db8-1794-4c51-17e303eaafcb","material_instance":"5c9c3adf-6355-0ada-7fab-bee502c05849"}}],"508647ca-01f3-4930-9e33-4562692b719f":{"mesh":"f61082ba-5db8-1794-4c51-17e303eaafcb"},"10dceba7-be9f-4a9d-9902-6f51bed634ab":{"physical_material":"db5dc618-2cfe-44e9-a319-69c503d090e7"}},{"typeGuid":"508647ca-01f3-4930-9e33-4562692b719f","instanceGuid":"77d65a2a-895b-a074-ca12-00314e9479fb","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Bookcase Full Book 4 Collider"}],"children":[{"typeGuid":"de0b2bc1-2e72-4739-a749-f5281e0de55a","instanceGuid":"3ed84095-e91a-000d-1a67-464306903607","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Bookcase Full Book 4"}],"9f750482-b822-4d4b-be6a-9c135c614328":{"stages":["bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f","dfca0ef8-eded-4660-8adb-43c0aa8f4e60"]},"de0b2bc1-2e72-4739-a749-f5281e0de55a":{"mesh":"f2e0cd59-b09e-a58f-48ca-8d21b82122cd","material_instance":"6ae2e0db-e906-80fc-5247-ca34061734da"}}],"508647ca-01f3-4930-9e33-4562692b719f":{"mesh":"f2e0cd59-b09e-a58f-48ca-8d21b82122cd"},"10dceba7-be9f-4a9d-9902-6f51bed634ab":{"physical_material":"db5dc618-2cfe-44e9-a319-69c503d090e7"}},{"typeGuid":"508647ca-01f3-4930-9e33-4562692b719f","instanceGuid":"752606d8-bea9-13c8-d22e-935d2e618c04","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Bookcase Full Book 3 Collider"}],"children":[{"typeGuid":"de0b2bc1-2e72-4739-a749-f5281e0de55a","instanceGuid":"6d036b54-e4ae-77b1-1545-e89a985c92e2","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Bookcase Full Book 3"}],"9f750482-b822-4d4b-be6a-9c135c614328":{"stages":["bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f","dfca0ef8-eded-4660-8adb-43c0aa8f4e60"]},"de0b2bc1-2e72-4739-a749-f5281e0de55a":{"mesh":"07c55a8e-5c62-599c-146f-98d3a5b546e5","material_instance":"53f04537-7966-dada-27d9-705fa3a4dcc0"}}],"508647ca-01f3-4930-9e33-4562692b719f":{"mesh":"07c55a8e-5c62-599c-146f-98d3a5b546e5"},"10dceba7-be9f-4a9d-9902-6f51bed634ab":{"physical_material":"db5dc618-2cfe-44e9-a319-69c503d090e7"}},{"typeGuid":"508647ca-01f3-4930-9e33-4562692b719f","instanceGuid":"3dae5b70-1579-eca0-213b-90abdeb1cda9","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Bookcase Full Book 1 Collider"}],"children":[{"typeGuid":"de0b2bc1-2e72-4739-a749-f5281e0de55a","instanceGuid":"09200e6e-7d16-f994-7ce3-0eb553b83f47","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Bookcase Full Book 1"}],"9f750482-b822-4d4b-be6a-9c135c614328":{"stages":["bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f","dfca0ef8-eded-4660-8adb-43c0aa8f4e60"]},"de0b2bc1-2e72-4739-a749-f5281e0de55a":{"mesh":"4f440e10-9def-fc63-3412-f57282be875e","material_instance":"2362c801-82d6-aa8c-357a-5bab23f0c1a8"}}],"508647ca-01f3-4930-9e33-4562692b719f":{"mesh":"4f440e10-9def-fc63-3412-f57282be875e"},"10dceba7-be9f-4a9d-9902-6f51bed634ab":{"physical_material":"db5dc618-2cfe-44e9-a319-69c503d090e7"}}]}],"0c3f4f29-0d53-4878-922a-cca7d6af7bb6":{"scene":"6d7fc969-b3ff-b8a9-36aa-e88610882b45"},"dependencies":["04af73dc-28a6-30ee-3e61-e7e76592dfb9","6b768d50-2568-0756-5d73-a16d921bb58f","db5dc618-2cfe-44e9-a319-69c503d090e7","5568bda7-daba-c06d-4321-2d6b46d5014a","d3caaba0-4ab5-5643-383a-326192624720","a7837df8-466c-8406-1a1a-3d705679dd02","05d27998-196f-e79e-bb67-9e42d6841a32","5c9c3adf-6355-0ada-7fab-bee502c05849","f61082ba-5db8-1794-4c51-17e303eaafcb","6ae2e0db-e906-80fc-5247-ca34061734da","f2e0cd59-b09e-a58f-48ca-8d21b82122cd","53f04537-7966-dada-27d9-705fa3a4dcc0","07c55a8e-5c62-599c-146f-98d3a5b546e5","2362c801-82d6-aa8c-357a-5bab23f0c1a8","4f440e10-9def-fc63-3412-f57282be875e"],"thumbnailGuid":"2991cc9f-ac28-00f5-3408-79beeba754f3"}
+{
+    "guid": "6d7fc969-b3ff-b8a9-36aa-e88610882b45",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "98589483-53ea-55e8-df2b-a9f5f4019103",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "25571a32-b342-f446-9300-342080551b32",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Bookcase Full Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "2112bcf4-0516-df81-dae0-2caa28d208c4",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Bookcase Full Wood Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "164c69b2-997a-af9d-e4d8-14a230810482",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Bookcase Full Wood"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "6b768d50-2568-0756-5d73-a16d921bb58f",
+                                "material_instance": "04af73dc-28a6-30ee-3e61-e7e76592dfb9"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "6b768d50-2568-0756-5d73-a16d921bb58f"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                },
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "72dba21f-1513-c545-59f7-a33de7bbd04d",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Bookcase Full Wood Dark Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "9f3d015a-ac48-6f20-6111-5080638bc0e7",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Bookcase Full Wood Dark"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "d3caaba0-4ab5-5643-383a-326192624720",
+                                "material_instance": "5568bda7-daba-c06d-4321-2d6b46d5014a"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "d3caaba0-4ab5-5643-383a-326192624720"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                },
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "3a3c15f7-19f3-da7e-21c7-29b8a2fc522d",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Bookcase Full Book 2 Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "9766e3d0-82f3-96df-1f98-7f3bc37268db",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Bookcase Full Book 2"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "05d27998-196f-e79e-bb67-9e42d6841a32",
+                                "material_instance": "a7837df8-466c-8406-1a1a-3d705679dd02"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "05d27998-196f-e79e-bb67-9e42d6841a32"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                },
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "4c745c6b-cd09-061a-cdfd-8c2024ee8a70",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Bookcase Full Pages Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "925e8d01-022e-c68f-3ca4-7e079ea2d048",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Bookcase Full Pages"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "f61082ba-5db8-1794-4c51-17e303eaafcb",
+                                "material_instance": "5c9c3adf-6355-0ada-7fab-bee502c05849"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "f61082ba-5db8-1794-4c51-17e303eaafcb"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                },
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "77d65a2a-895b-a074-ca12-00314e9479fb",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Bookcase Full Book 4 Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "3ed84095-e91a-000d-1a67-464306903607",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Bookcase Full Book 4"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "f2e0cd59-b09e-a58f-48ca-8d21b82122cd",
+                                "material_instance": "6ae2e0db-e906-80fc-5247-ca34061734da"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "f2e0cd59-b09e-a58f-48ca-8d21b82122cd"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                },
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "752606d8-bea9-13c8-d22e-935d2e618c04",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Bookcase Full Book 3 Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "6d036b54-e4ae-77b1-1545-e89a985c92e2",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Bookcase Full Book 3"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "07c55a8e-5c62-599c-146f-98d3a5b546e5",
+                                "material_instance": "53f04537-7966-dada-27d9-705fa3a4dcc0"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "07c55a8e-5c62-599c-146f-98d3a5b546e5"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                },
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "3dae5b70-1579-eca0-213b-90abdeb1cda9",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Bookcase Full Book 1 Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "09200e6e-7d16-f994-7ce3-0eb553b83f47",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Bookcase Full Book 1"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "4f440e10-9def-fc63-3412-f57282be875e",
+                                "material_instance": "2362c801-82d6-aa8c-357a-5bab23f0c1a8"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "4f440e10-9def-fc63-3412-f57282be875e"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "6d7fc969-b3ff-b8a9-36aa-e88610882b45"
+    },
+    "dependencies": [
+        "04af73dc-28a6-30ee-3e61-e7e76592dfb9",
+        "6b768d50-2568-0756-5d73-a16d921bb58f",
+        "db5dc618-2cfe-44e9-a319-69c503d090e7",
+        "5568bda7-daba-c06d-4321-2d6b46d5014a",
+        "d3caaba0-4ab5-5643-383a-326192624720",
+        "a7837df8-466c-8406-1a1a-3d705679dd02",
+        "05d27998-196f-e79e-bb67-9e42d6841a32",
+        "5c9c3adf-6355-0ada-7fab-bee502c05849",
+        "f61082ba-5db8-1794-4c51-17e303eaafcb",
+        "6ae2e0db-e906-80fc-5247-ca34061734da",
+        "f2e0cd59-b09e-a58f-48ca-8d21b82122cd",
+        "53f04537-7966-dada-27d9-705fa3a4dcc0",
+        "07c55a8e-5c62-599c-146f-98d3a5b546e5",
+        "2362c801-82d6-aa8c-357a-5bab23f0c1a8",
+        "4f440e10-9def-fc63-3412-f57282be875e"
+    ],
+    "thumbnailGuid": "2991cc9f-ac28-00f5-3408-79beeba754f3"
+}

@@ -1,1 +1,155 @@
-{"guid":"43f713db-7673-275b-2d3d-82ef6c91aad3","assetTypeGuid":"abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c","tags":["3db9a07a-f18a-4fe6-87e9-999ef466091a"],"typeGuid":"0c3f4f29-0d53-4878-922a-cca7d6af7bb6","instanceGuid":"083e2022-6dc8-dd92-804e-24e190aed706","data_components":[],"children":[{"typeGuid":"de8f8da2-d37f-41da-bc6e-580435fe605f","instanceGuid":"3a4a1562-31e7-ebdc-6d5d-dc95ce8e3080","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Support Center Physics Body"},{"typeGuid":"653ee503-f473-47d2-be45-08a577d17b86","type":0}],"children":[{"typeGuid":"508647ca-01f3-4930-9e33-4562692b719f","instanceGuid":"4f21c6db-8e99-3222-325c-45d33ca3eeaf","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Support Center Main Collider"}],"children":[{"typeGuid":"de0b2bc1-2e72-4739-a749-f5281e0de55a","instanceGuid":"c031e07c-6791-0170-edbe-28597fe2120a","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Support Center Main"}],"9f750482-b822-4d4b-be6a-9c135c614328":{"stages":["bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f","dfca0ef8-eded-4660-8adb-43c0aa8f4e60"]},"de0b2bc1-2e72-4739-a749-f5281e0de55a":{"mesh":"3d46760f-cc79-a9d3-a301-61fd24bf37ce","material_instance":"8184c770-ec81-32e1-d00f-a7123a839c29"}}],"508647ca-01f3-4930-9e33-4562692b719f":{"mesh":"3d46760f-cc79-a9d3-a301-61fd24bf37ce"},"10dceba7-be9f-4a9d-9902-6f51bed634ab":{"physical_material":"db5dc618-2cfe-44e9-a319-69c503d090e7"}},{"typeGuid":"508647ca-01f3-4930-9e33-4562692b719f","instanceGuid":"c195f3f0-d514-19b4-298e-d5c18952dcab","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Support Center Highlights Collider"}],"children":[{"typeGuid":"de0b2bc1-2e72-4739-a749-f5281e0de55a","instanceGuid":"c59f8f5b-96d1-280f-ebb6-157ecc940c85","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Support Center Highlights"}],"9f750482-b822-4d4b-be6a-9c135c614328":{"stages":["bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f","dfca0ef8-eded-4660-8adb-43c0aa8f4e60"]},"de0b2bc1-2e72-4739-a749-f5281e0de55a":{"mesh":"234e5cbd-7c66-d737-142f-86311fa4334d","material_instance":"b9708b9d-e385-fca9-9acd-a5a0560fadfe"}}],"508647ca-01f3-4930-9e33-4562692b719f":{"mesh":"234e5cbd-7c66-d737-142f-86311fa4334d"},"10dceba7-be9f-4a9d-9902-6f51bed634ab":{"physical_material":"db5dc618-2cfe-44e9-a319-69c503d090e7"}},{"typeGuid":"508647ca-01f3-4930-9e33-4562692b719f","instanceGuid":"48445fee-05fc-fe89-8a63-6acbf2fea82d","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Support Center Black Collider"}],"children":[{"typeGuid":"de0b2bc1-2e72-4739-a749-f5281e0de55a","instanceGuid":"6fb5858c-09ba-67dc-4c97-0872924a7ae3","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Support Center Black"}],"9f750482-b822-4d4b-be6a-9c135c614328":{"stages":["bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f","dfca0ef8-eded-4660-8adb-43c0aa8f4e60"]},"de0b2bc1-2e72-4739-a749-f5281e0de55a":{"mesh":"2d733b60-5d8b-0778-2848-3df03daa1757","material_instance":"09441966-77ac-6d9a-311f-7f8f5a6b9e1f"}}],"508647ca-01f3-4930-9e33-4562692b719f":{"mesh":"2d733b60-5d8b-0778-2848-3df03daa1757"},"10dceba7-be9f-4a9d-9902-6f51bed634ab":{"physical_material":"db5dc618-2cfe-44e9-a319-69c503d090e7"}}]}],"0c3f4f29-0d53-4878-922a-cca7d6af7bb6":{"scene":"43f713db-7673-275b-2d3d-82ef6c91aad3"},"dependencies":["8184c770-ec81-32e1-d00f-a7123a839c29","3d46760f-cc79-a9d3-a301-61fd24bf37ce","db5dc618-2cfe-44e9-a319-69c503d090e7","b9708b9d-e385-fca9-9acd-a5a0560fadfe","234e5cbd-7c66-d737-142f-86311fa4334d","09441966-77ac-6d9a-311f-7f8f5a6b9e1f","2d733b60-5d8b-0778-2848-3df03daa1757"],"thumbnailGuid":"8ca483c5-299f-84a7-c302-8e2417cb128c"}
+{
+    "guid": "43f713db-7673-275b-2d3d-82ef6c91aad3",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "083e2022-6dc8-dd92-804e-24e190aed706",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "3a4a1562-31e7-ebdc-6d5d-dc95ce8e3080",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Support Center Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "4f21c6db-8e99-3222-325c-45d33ca3eeaf",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Support Center Main Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "c031e07c-6791-0170-edbe-28597fe2120a",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Support Center Main"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "3d46760f-cc79-a9d3-a301-61fd24bf37ce",
+                                "material_instance": "8184c770-ec81-32e1-d00f-a7123a839c29"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "3d46760f-cc79-a9d3-a301-61fd24bf37ce"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                },
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "c195f3f0-d514-19b4-298e-d5c18952dcab",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Support Center Highlights Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "c59f8f5b-96d1-280f-ebb6-157ecc940c85",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Support Center Highlights"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "234e5cbd-7c66-d737-142f-86311fa4334d",
+                                "material_instance": "b9708b9d-e385-fca9-9acd-a5a0560fadfe"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "234e5cbd-7c66-d737-142f-86311fa4334d"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                },
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "48445fee-05fc-fe89-8a63-6acbf2fea82d",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Support Center Black Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "6fb5858c-09ba-67dc-4c97-0872924a7ae3",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Support Center Black"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "2d733b60-5d8b-0778-2848-3df03daa1757",
+                                "material_instance": "09441966-77ac-6d9a-311f-7f8f5a6b9e1f"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "2d733b60-5d8b-0778-2848-3df03daa1757"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "43f713db-7673-275b-2d3d-82ef6c91aad3"
+    },
+    "dependencies": [
+        "8184c770-ec81-32e1-d00f-a7123a839c29",
+        "3d46760f-cc79-a9d3-a301-61fd24bf37ce",
+        "db5dc618-2cfe-44e9-a319-69c503d090e7",
+        "b9708b9d-e385-fca9-9acd-a5a0560fadfe",
+        "234e5cbd-7c66-d737-142f-86311fa4334d",
+        "09441966-77ac-6d9a-311f-7f8f5a6b9e1f",
+        "2d733b60-5d8b-0778-2848-3df03daa1757"
+    ],
+    "thumbnailGuid": "8ca483c5-299f-84a7-c302-8e2417cb128c"
+}

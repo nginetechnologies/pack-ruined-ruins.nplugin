@@ -1,1 +1,195 @@
-{"guid":"f233d2c8-00a5-c83d-72a2-b3bda419d19d","assetTypeGuid":"abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c","tags":["3db9a07a-f18a-4fe6-87e9-999ef466091a"],"typeGuid":"0c3f4f29-0d53-4878-922a-cca7d6af7bb6","instanceGuid":"f52eb92b-1df8-07d3-8a2c-6e6607471289","data_components":[],"children":[{"typeGuid":"de8f8da2-d37f-41da-bc6e-580435fe605f","instanceGuid":"8cfdd71d-e643-5a34-cbc9-84c1dadcc841","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Chest Gold Base Physics Body"},{"typeGuid":"653ee503-f473-47d2-be45-08a577d17b86","type":0}],"children":[{"typeGuid":"508647ca-01f3-4930-9e33-4562692b719f","instanceGuid":"f67d7150-94fa-3e7f-9612-e0bc0893b857","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Chest Gold Base Wood Dark Collider"}],"children":[{"typeGuid":"de0b2bc1-2e72-4739-a749-f5281e0de55a","instanceGuid":"6135d18d-27d7-1526-2310-4ef063027855","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Chest Gold Base Wood Dark"}],"9f750482-b822-4d4b-be6a-9c135c614328":{"stages":["bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f","dfca0ef8-eded-4660-8adb-43c0aa8f4e60"]},"de0b2bc1-2e72-4739-a749-f5281e0de55a":{"mesh":"d716cdfb-114d-2219-3bdd-3d9bd98651c3","material_instance":"5568bda7-daba-c06d-4321-2d6b46d5014a"}}],"508647ca-01f3-4930-9e33-4562692b719f":{"mesh":"d716cdfb-114d-2219-3bdd-3d9bd98651c3"},"10dceba7-be9f-4a9d-9902-6f51bed634ab":{"physical_material":"db5dc618-2cfe-44e9-a319-69c503d090e7"}},{"typeGuid":"508647ca-01f3-4930-9e33-4562692b719f","instanceGuid":"f90e1996-8c1b-0959-f7d2-e9c32d02b7c3","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Chest Gold Base Wood Collider"}],"children":[{"typeGuid":"de0b2bc1-2e72-4739-a749-f5281e0de55a","instanceGuid":"2e8e6202-e347-e8a8-c154-d9e0229db732","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Chest Gold Base Wood"}],"9f750482-b822-4d4b-be6a-9c135c614328":{"stages":["bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f","dfca0ef8-eded-4660-8adb-43c0aa8f4e60"]},"de0b2bc1-2e72-4739-a749-f5281e0de55a":{"mesh":"ac525f15-25b7-bd25-dd53-bb5fbca10a2d","material_instance":"04af73dc-28a6-30ee-3e61-e7e76592dfb9"}}],"508647ca-01f3-4930-9e33-4562692b719f":{"mesh":"ac525f15-25b7-bd25-dd53-bb5fbca10a2d"},"10dceba7-be9f-4a9d-9902-6f51bed634ab":{"physical_material":"db5dc618-2cfe-44e9-a319-69c503d090e7"}},{"typeGuid":"508647ca-01f3-4930-9e33-4562692b719f","instanceGuid":"eef3bf88-ade3-79c8-fa81-1f1fb96fd6eb","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Chest Gold Base Metal Collider"}],"children":[{"typeGuid":"de0b2bc1-2e72-4739-a749-f5281e0de55a","instanceGuid":"231e8376-97a6-5378-b17c-b7de92b62568","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Chest Gold Base Metal"}],"9f750482-b822-4d4b-be6a-9c135c614328":{"stages":["bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f","dfca0ef8-eded-4660-8adb-43c0aa8f4e60"]},"de0b2bc1-2e72-4739-a749-f5281e0de55a":{"mesh":"ae849cda-05aa-4356-9583-049b2812a06f","material_instance":"5ef0faca-7ae3-1610-6747-6e8ce4cdd901"}}],"508647ca-01f3-4930-9e33-4562692b719f":{"mesh":"ae849cda-05aa-4356-9583-049b2812a06f"},"10dceba7-be9f-4a9d-9902-6f51bed634ab":{"physical_material":"db5dc618-2cfe-44e9-a319-69c503d090e7"}},{"typeGuid":"508647ca-01f3-4930-9e33-4562692b719f","instanceGuid":"127aceca-1c39-05eb-d725-894e75f5a0b5","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Chest Gold Base Gold Collider"}],"children":[{"typeGuid":"de0b2bc1-2e72-4739-a749-f5281e0de55a","instanceGuid":"2e5ac3da-02c6-2061-9774-8e169387b161","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Chest Gold Base Gold"}],"9f750482-b822-4d4b-be6a-9c135c614328":{"stages":["bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f","dfca0ef8-eded-4660-8adb-43c0aa8f4e60"]},"de0b2bc1-2e72-4739-a749-f5281e0de55a":{"mesh":"b0c636a0-4f2a-d004-f8c0-253e1dbdc80e","material_instance":"e578ef02-3e64-f69e-d1c1-1231406c3e16"}}],"508647ca-01f3-4930-9e33-4562692b719f":{"mesh":"b0c636a0-4f2a-d004-f8c0-253e1dbdc80e"},"10dceba7-be9f-4a9d-9902-6f51bed634ab":{"physical_material":"db5dc618-2cfe-44e9-a319-69c503d090e7"}}]}],"0c3f4f29-0d53-4878-922a-cca7d6af7bb6":{"scene":"f233d2c8-00a5-c83d-72a2-b3bda419d19d"},"dependencies":["5568bda7-daba-c06d-4321-2d6b46d5014a","d716cdfb-114d-2219-3bdd-3d9bd98651c3","db5dc618-2cfe-44e9-a319-69c503d090e7","04af73dc-28a6-30ee-3e61-e7e76592dfb9","ac525f15-25b7-bd25-dd53-bb5fbca10a2d","5ef0faca-7ae3-1610-6747-6e8ce4cdd901","ae849cda-05aa-4356-9583-049b2812a06f","e578ef02-3e64-f69e-d1c1-1231406c3e16","b0c636a0-4f2a-d004-f8c0-253e1dbdc80e"],"thumbnailGuid":"1dbbdace-658e-1780-ec32-746d0b45751d"}
+{
+    "guid": "f233d2c8-00a5-c83d-72a2-b3bda419d19d",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "f52eb92b-1df8-07d3-8a2c-6e6607471289",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "8cfdd71d-e643-5a34-cbc9-84c1dadcc841",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Chest Gold Base Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "f67d7150-94fa-3e7f-9612-e0bc0893b857",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Chest Gold Base Wood Dark Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "6135d18d-27d7-1526-2310-4ef063027855",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Chest Gold Base Wood Dark"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "d716cdfb-114d-2219-3bdd-3d9bd98651c3",
+                                "material_instance": "5568bda7-daba-c06d-4321-2d6b46d5014a"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "d716cdfb-114d-2219-3bdd-3d9bd98651c3"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                },
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "f90e1996-8c1b-0959-f7d2-e9c32d02b7c3",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Chest Gold Base Wood Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "2e8e6202-e347-e8a8-c154-d9e0229db732",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Chest Gold Base Wood"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "ac525f15-25b7-bd25-dd53-bb5fbca10a2d",
+                                "material_instance": "04af73dc-28a6-30ee-3e61-e7e76592dfb9"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "ac525f15-25b7-bd25-dd53-bb5fbca10a2d"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                },
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "eef3bf88-ade3-79c8-fa81-1f1fb96fd6eb",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Chest Gold Base Metal Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "231e8376-97a6-5378-b17c-b7de92b62568",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Chest Gold Base Metal"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "ae849cda-05aa-4356-9583-049b2812a06f",
+                                "material_instance": "5ef0faca-7ae3-1610-6747-6e8ce4cdd901"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "ae849cda-05aa-4356-9583-049b2812a06f"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                },
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "127aceca-1c39-05eb-d725-894e75f5a0b5",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Chest Gold Base Gold Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "2e5ac3da-02c6-2061-9774-8e169387b161",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Chest Gold Base Gold"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "b0c636a0-4f2a-d004-f8c0-253e1dbdc80e",
+                                "material_instance": "e578ef02-3e64-f69e-d1c1-1231406c3e16"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "b0c636a0-4f2a-d004-f8c0-253e1dbdc80e"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "f233d2c8-00a5-c83d-72a2-b3bda419d19d"
+    },
+    "dependencies": [
+        "5568bda7-daba-c06d-4321-2d6b46d5014a",
+        "d716cdfb-114d-2219-3bdd-3d9bd98651c3",
+        "db5dc618-2cfe-44e9-a319-69c503d090e7",
+        "04af73dc-28a6-30ee-3e61-e7e76592dfb9",
+        "ac525f15-25b7-bd25-dd53-bb5fbca10a2d",
+        "5ef0faca-7ae3-1610-6747-6e8ce4cdd901",
+        "ae849cda-05aa-4356-9583-049b2812a06f",
+        "e578ef02-3e64-f69e-d1c1-1231406c3e16",
+        "b0c636a0-4f2a-d004-f8c0-253e1dbdc80e"
+    ],
+    "thumbnailGuid": "1dbbdace-658e-1780-ec32-746d0b45751d"
+}

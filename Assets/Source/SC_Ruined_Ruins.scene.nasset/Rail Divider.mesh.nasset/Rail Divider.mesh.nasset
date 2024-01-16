@@ -1,1 +1,75 @@
-{"guid":"0f1ffe08-6ba6-b10c-1d47-2a2695053a94","assetTypeGuid":"abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c","tags":["3db9a07a-f18a-4fe6-87e9-999ef466091a"],"typeGuid":"0c3f4f29-0d53-4878-922a-cca7d6af7bb6","instanceGuid":"5dccc00c-85c7-408c-9184-844aa55fa17c","data_components":[],"children":[{"typeGuid":"de8f8da2-d37f-41da-bc6e-580435fe605f","instanceGuid":"d9c37052-e527-6936-fd83-939261b26303","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Rail Divider Physics Body"},{"typeGuid":"653ee503-f473-47d2-be45-08a577d17b86","type":0}],"children":[{"typeGuid":"508647ca-01f3-4930-9e33-4562692b719f","instanceGuid":"cd833deb-a900-a0d9-2463-603d95a878c3","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Rail Divider Main Collider"}],"children":[{"typeGuid":"de0b2bc1-2e72-4739-a749-f5281e0de55a","instanceGuid":"705e0577-bfd2-52f0-809d-b6ca2def9881","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Rail Divider Main"}],"9f750482-b822-4d4b-be6a-9c135c614328":{"stages":["bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f","dfca0ef8-eded-4660-8adb-43c0aa8f4e60"]},"de0b2bc1-2e72-4739-a749-f5281e0de55a":{"mesh":"546cbbd7-3ecf-2fd7-9fb2-b95036a5ea04","material_instance":"8184c770-ec81-32e1-d00f-a7123a839c29"}}],"508647ca-01f3-4930-9e33-4562692b719f":{"mesh":"546cbbd7-3ecf-2fd7-9fb2-b95036a5ea04"},"10dceba7-be9f-4a9d-9902-6f51bed634ab":{"physical_material":"db5dc618-2cfe-44e9-a319-69c503d090e7"}}]}],"0c3f4f29-0d53-4878-922a-cca7d6af7bb6":{"scene":"0f1ffe08-6ba6-b10c-1d47-2a2695053a94"},"dependencies":["8184c770-ec81-32e1-d00f-a7123a839c29","546cbbd7-3ecf-2fd7-9fb2-b95036a5ea04","db5dc618-2cfe-44e9-a319-69c503d090e7"],"thumbnailGuid":"07bcad4c-a409-0800-ea8d-93df861610b2"}
+{
+    "guid": "0f1ffe08-6ba6-b10c-1d47-2a2695053a94",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "5dccc00c-85c7-408c-9184-844aa55fa17c",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "d9c37052-e527-6936-fd83-939261b26303",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Rail Divider Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "cd833deb-a900-a0d9-2463-603d95a878c3",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Rail Divider Main Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "705e0577-bfd2-52f0-809d-b6ca2def9881",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Rail Divider Main"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "546cbbd7-3ecf-2fd7-9fb2-b95036a5ea04",
+                                "material_instance": "8184c770-ec81-32e1-d00f-a7123a839c29"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "546cbbd7-3ecf-2fd7-9fb2-b95036a5ea04"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "0f1ffe08-6ba6-b10c-1d47-2a2695053a94"
+    },
+    "dependencies": [
+        "8184c770-ec81-32e1-d00f-a7123a839c29",
+        "546cbbd7-3ecf-2fd7-9fb2-b95036a5ea04",
+        "db5dc618-2cfe-44e9-a319-69c503d090e7"
+    ],
+    "thumbnailGuid": "07bcad4c-a409-0800-ea8d-93df861610b2"
+}

@@ -1,1 +1,235 @@
-{"guid":"488deb5a-2aac-fd42-eb4e-fabfbbe4a6f8","assetTypeGuid":"abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c","tags":["3db9a07a-f18a-4fe6-87e9-999ef466091a"],"typeGuid":"0c3f4f29-0d53-4878-922a-cca7d6af7bb6","instanceGuid":"32443c17-bc38-4938-4146-33781c95431c","data_components":[],"children":[{"typeGuid":"de8f8da2-d37f-41da-bc6e-580435fe605f","instanceGuid":"ff2214bb-c2c7-7dba-1d2b-f1323d1e2052","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Window Bars Double Overgrown Physics Body"},{"typeGuid":"653ee503-f473-47d2-be45-08a577d17b86","type":0}],"children":[{"typeGuid":"508647ca-01f3-4930-9e33-4562692b719f","instanceGuid":"58d26077-878d-cba6-cbfd-d876d0b14970","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Window Bars Double Overgrown Highlights Collider"}],"children":[{"typeGuid":"de0b2bc1-2e72-4739-a749-f5281e0de55a","instanceGuid":"7ed9a4a8-2cba-d602-ded1-fb2ef810d5d9","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Window Bars Double Overgrown Highlights"}],"9f750482-b822-4d4b-be6a-9c135c614328":{"stages":["bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f","dfca0ef8-eded-4660-8adb-43c0aa8f4e60"]},"de0b2bc1-2e72-4739-a749-f5281e0de55a":{"mesh":"0eb86e9f-833b-b052-080a-8fa1cce589c1","material_instance":"b9708b9d-e385-fca9-9acd-a5a0560fadfe"}}],"508647ca-01f3-4930-9e33-4562692b719f":{"mesh":"0eb86e9f-833b-b052-080a-8fa1cce589c1"},"10dceba7-be9f-4a9d-9902-6f51bed634ab":{"physical_material":"db5dc618-2cfe-44e9-a319-69c503d090e7"}},{"typeGuid":"508647ca-01f3-4930-9e33-4562692b719f","instanceGuid":"7e597c4b-9eb7-30bf-3090-502d7291758f","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Window Bars Double Overgrown Main Collider"}],"children":[{"typeGuid":"de0b2bc1-2e72-4739-a749-f5281e0de55a","instanceGuid":"51db0d21-9a73-281b-f1a1-4ab50d250904","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Window Bars Double Overgrown Main"}],"9f750482-b822-4d4b-be6a-9c135c614328":{"stages":["bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f","dfca0ef8-eded-4660-8adb-43c0aa8f4e60"]},"de0b2bc1-2e72-4739-a749-f5281e0de55a":{"mesh":"34c9a907-7ba7-d583-482b-119f854efac7","material_instance":"8184c770-ec81-32e1-d00f-a7123a839c29"}}],"508647ca-01f3-4930-9e33-4562692b719f":{"mesh":"34c9a907-7ba7-d583-482b-119f854efac7"},"10dceba7-be9f-4a9d-9902-6f51bed634ab":{"physical_material":"db5dc618-2cfe-44e9-a319-69c503d090e7"}},{"typeGuid":"508647ca-01f3-4930-9e33-4562692b719f","instanceGuid":"bde0490c-b50d-abd2-4f8c-7d91a1acb0b6","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Window Bars Double Overgrown Metal Collider"}],"children":[{"typeGuid":"de0b2bc1-2e72-4739-a749-f5281e0de55a","instanceGuid":"6db97df5-3a96-3311-4ba3-6b23db10e541","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Window Bars Double Overgrown Metal"}],"9f750482-b822-4d4b-be6a-9c135c614328":{"stages":["bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f","dfca0ef8-eded-4660-8adb-43c0aa8f4e60"]},"de0b2bc1-2e72-4739-a749-f5281e0de55a":{"mesh":"3853f68f-2112-315c-f7e2-c5caab6bbf15","material_instance":"5ef0faca-7ae3-1610-6747-6e8ce4cdd901"}}],"508647ca-01f3-4930-9e33-4562692b719f":{"mesh":"3853f68f-2112-315c-f7e2-c5caab6bbf15"},"10dceba7-be9f-4a9d-9902-6f51bed634ab":{"physical_material":"db5dc618-2cfe-44e9-a319-69c503d090e7"}},{"typeGuid":"508647ca-01f3-4930-9e33-4562692b719f","instanceGuid":"fcff16d8-37cc-836c-ab55-ebae5fa4b724","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Window Bars Double Overgrown Green Collider"}],"children":[{"typeGuid":"de0b2bc1-2e72-4739-a749-f5281e0de55a","instanceGuid":"629b2b10-05a4-d7e1-11b2-df5a349ef795","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Window Bars Double Overgrown Green"}],"9f750482-b822-4d4b-be6a-9c135c614328":{"stages":["bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f","dfca0ef8-eded-4660-8adb-43c0aa8f4e60"]},"de0b2bc1-2e72-4739-a749-f5281e0de55a":{"mesh":"c16c01a9-1576-49b4-28f0-f4880fcefd75","material_instance":"e8bb1b8c-ab1c-bfca-b234-5f16099768fd"}}],"508647ca-01f3-4930-9e33-4562692b719f":{"mesh":"c16c01a9-1576-49b4-28f0-f4880fcefd75"},"10dceba7-be9f-4a9d-9902-6f51bed634ab":{"physical_material":"db5dc618-2cfe-44e9-a319-69c503d090e7"}},{"typeGuid":"508647ca-01f3-4930-9e33-4562692b719f","instanceGuid":"23bdae7b-e684-23a2-47e9-8291b859278c","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Window Bars Double Overgrown Leaves Collider"}],"children":[{"typeGuid":"de0b2bc1-2e72-4739-a749-f5281e0de55a","instanceGuid":"0c3d2ff0-874b-5f76-7996-ecf9240a1f1e","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Window Bars Double Overgrown Leaves"}],"9f750482-b822-4d4b-be6a-9c135c614328":{"stages":["bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f","dfca0ef8-eded-4660-8adb-43c0aa8f4e60"]},"de0b2bc1-2e72-4739-a749-f5281e0de55a":{"mesh":"3de2d3cd-b7bc-a75e-5ef3-81c816c3941b","material_instance":"93b53d4c-b2ff-7256-1a8c-51662b8afa46"}}],"508647ca-01f3-4930-9e33-4562692b719f":{"mesh":"3de2d3cd-b7bc-a75e-5ef3-81c816c3941b"},"10dceba7-be9f-4a9d-9902-6f51bed634ab":{"physical_material":"db5dc618-2cfe-44e9-a319-69c503d090e7"}}]}],"0c3f4f29-0d53-4878-922a-cca7d6af7bb6":{"scene":"488deb5a-2aac-fd42-eb4e-fabfbbe4a6f8"},"dependencies":["b9708b9d-e385-fca9-9acd-a5a0560fadfe","0eb86e9f-833b-b052-080a-8fa1cce589c1","db5dc618-2cfe-44e9-a319-69c503d090e7","8184c770-ec81-32e1-d00f-a7123a839c29","34c9a907-7ba7-d583-482b-119f854efac7","5ef0faca-7ae3-1610-6747-6e8ce4cdd901","3853f68f-2112-315c-f7e2-c5caab6bbf15","e8bb1b8c-ab1c-bfca-b234-5f16099768fd","c16c01a9-1576-49b4-28f0-f4880fcefd75","93b53d4c-b2ff-7256-1a8c-51662b8afa46","3de2d3cd-b7bc-a75e-5ef3-81c816c3941b"],"thumbnailGuid":"0462cf13-3eeb-4020-777e-d47ba9009b1b"}
+{
+    "guid": "488deb5a-2aac-fd42-eb4e-fabfbbe4a6f8",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "32443c17-bc38-4938-4146-33781c95431c",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "ff2214bb-c2c7-7dba-1d2b-f1323d1e2052",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Window Bars Double Overgrown Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "58d26077-878d-cba6-cbfd-d876d0b14970",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Window Bars Double Overgrown Highlights Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "7ed9a4a8-2cba-d602-ded1-fb2ef810d5d9",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Window Bars Double Overgrown Highlights"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "0eb86e9f-833b-b052-080a-8fa1cce589c1",
+                                "material_instance": "b9708b9d-e385-fca9-9acd-a5a0560fadfe"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "0eb86e9f-833b-b052-080a-8fa1cce589c1"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                },
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "7e597c4b-9eb7-30bf-3090-502d7291758f",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Window Bars Double Overgrown Main Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "51db0d21-9a73-281b-f1a1-4ab50d250904",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Window Bars Double Overgrown Main"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "34c9a907-7ba7-d583-482b-119f854efac7",
+                                "material_instance": "8184c770-ec81-32e1-d00f-a7123a839c29"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "34c9a907-7ba7-d583-482b-119f854efac7"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                },
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "bde0490c-b50d-abd2-4f8c-7d91a1acb0b6",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Window Bars Double Overgrown Metal Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "6db97df5-3a96-3311-4ba3-6b23db10e541",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Window Bars Double Overgrown Metal"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "3853f68f-2112-315c-f7e2-c5caab6bbf15",
+                                "material_instance": "5ef0faca-7ae3-1610-6747-6e8ce4cdd901"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "3853f68f-2112-315c-f7e2-c5caab6bbf15"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                },
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "fcff16d8-37cc-836c-ab55-ebae5fa4b724",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Window Bars Double Overgrown Green Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "629b2b10-05a4-d7e1-11b2-df5a349ef795",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Window Bars Double Overgrown Green"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "c16c01a9-1576-49b4-28f0-f4880fcefd75",
+                                "material_instance": "e8bb1b8c-ab1c-bfca-b234-5f16099768fd"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "c16c01a9-1576-49b4-28f0-f4880fcefd75"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                },
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "23bdae7b-e684-23a2-47e9-8291b859278c",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Window Bars Double Overgrown Leaves Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "0c3d2ff0-874b-5f76-7996-ecf9240a1f1e",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Window Bars Double Overgrown Leaves"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "3de2d3cd-b7bc-a75e-5ef3-81c816c3941b",
+                                "material_instance": "93b53d4c-b2ff-7256-1a8c-51662b8afa46"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "3de2d3cd-b7bc-a75e-5ef3-81c816c3941b"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "488deb5a-2aac-fd42-eb4e-fabfbbe4a6f8"
+    },
+    "dependencies": [
+        "b9708b9d-e385-fca9-9acd-a5a0560fadfe",
+        "0eb86e9f-833b-b052-080a-8fa1cce589c1",
+        "db5dc618-2cfe-44e9-a319-69c503d090e7",
+        "8184c770-ec81-32e1-d00f-a7123a839c29",
+        "34c9a907-7ba7-d583-482b-119f854efac7",
+        "5ef0faca-7ae3-1610-6747-6e8ce4cdd901",
+        "3853f68f-2112-315c-f7e2-c5caab6bbf15",
+        "e8bb1b8c-ab1c-bfca-b234-5f16099768fd",
+        "c16c01a9-1576-49b4-28f0-f4880fcefd75",
+        "93b53d4c-b2ff-7256-1a8c-51662b8afa46",
+        "3de2d3cd-b7bc-a75e-5ef3-81c816c3941b"
+    ],
+    "thumbnailGuid": "0462cf13-3eeb-4020-777e-d47ba9009b1b"
+}

@@ -1,1 +1,195 @@
-{"guid":"51a7ae1c-5e00-f42e-c5ec-9a5051586d6e","assetTypeGuid":"abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c","tags":["3db9a07a-f18a-4fe6-87e9-999ef466091a"],"typeGuid":"0c3f4f29-0d53-4878-922a-cca7d6af7bb6","instanceGuid":"258136f8-f203-3390-9664-3e7f40fd2b9f","data_components":[],"children":[{"typeGuid":"de8f8da2-d37f-41da-bc6e-580435fe605f","instanceGuid":"d1e3469f-cc60-df3c-c640-e58ef59e7b2c","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Door Gothic Arch R Physics Body"},{"typeGuid":"653ee503-f473-47d2-be45-08a577d17b86","type":0}],"children":[{"typeGuid":"508647ca-01f3-4930-9e33-4562692b719f","instanceGuid":"fdbbf6aa-e598-b215-7416-015b3c7f6175","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Door Gothic Arch R Wood Dark Collider"}],"children":[{"typeGuid":"de0b2bc1-2e72-4739-a749-f5281e0de55a","instanceGuid":"dd69d67d-d772-e1fb-a325-e032be113ab7","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Door Gothic Arch R Wood Dark"}],"9f750482-b822-4d4b-be6a-9c135c614328":{"stages":["bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f","dfca0ef8-eded-4660-8adb-43c0aa8f4e60"]},"de0b2bc1-2e72-4739-a749-f5281e0de55a":{"mesh":"308226fb-c19c-3ab4-6bbd-8ee88fadb108","material_instance":"5568bda7-daba-c06d-4321-2d6b46d5014a"}}],"508647ca-01f3-4930-9e33-4562692b719f":{"mesh":"308226fb-c19c-3ab4-6bbd-8ee88fadb108"},"10dceba7-be9f-4a9d-9902-6f51bed634ab":{"physical_material":"db5dc618-2cfe-44e9-a319-69c503d090e7"}},{"typeGuid":"508647ca-01f3-4930-9e33-4562692b719f","instanceGuid":"c1e1db4a-7eeb-86b7-af4f-dc3c1cafeb24","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Door Gothic Arch R Metal Collider"}],"children":[{"typeGuid":"de0b2bc1-2e72-4739-a749-f5281e0de55a","instanceGuid":"ebfac910-5061-3c38-9b36-075f686a58e7","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Door Gothic Arch R Metal"}],"9f750482-b822-4d4b-be6a-9c135c614328":{"stages":["bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f","dfca0ef8-eded-4660-8adb-43c0aa8f4e60"]},"de0b2bc1-2e72-4739-a749-f5281e0de55a":{"mesh":"fa86d677-96db-07f1-f75b-2b1d34e8ce85","material_instance":"5ef0faca-7ae3-1610-6747-6e8ce4cdd901"}}],"508647ca-01f3-4930-9e33-4562692b719f":{"mesh":"fa86d677-96db-07f1-f75b-2b1d34e8ce85"},"10dceba7-be9f-4a9d-9902-6f51bed634ab":{"physical_material":"db5dc618-2cfe-44e9-a319-69c503d090e7"}},{"typeGuid":"508647ca-01f3-4930-9e33-4562692b719f","instanceGuid":"8db79271-fb29-b174-77fe-471d417ab2e8","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Door Gothic Arch R Wood Collider"}],"children":[{"typeGuid":"de0b2bc1-2e72-4739-a749-f5281e0de55a","instanceGuid":"61699252-e778-b066-a2ba-eda60f397686","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Door Gothic Arch R Wood"}],"9f750482-b822-4d4b-be6a-9c135c614328":{"stages":["bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f","dfca0ef8-eded-4660-8adb-43c0aa8f4e60"]},"de0b2bc1-2e72-4739-a749-f5281e0de55a":{"mesh":"ee228dec-e5d9-43c3-a0eb-0d3c239823b0","material_instance":"04af73dc-28a6-30ee-3e61-e7e76592dfb9"}}],"508647ca-01f3-4930-9e33-4562692b719f":{"mesh":"ee228dec-e5d9-43c3-a0eb-0d3c239823b0"},"10dceba7-be9f-4a9d-9902-6f51bed634ab":{"physical_material":"db5dc618-2cfe-44e9-a319-69c503d090e7"}},{"typeGuid":"508647ca-01f3-4930-9e33-4562692b719f","instanceGuid":"e9726f14-ce5c-7c4f-2cdf-70486d20c9d0","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Door Gothic Arch R Metal Light Collider"}],"children":[{"typeGuid":"de0b2bc1-2e72-4739-a749-f5281e0de55a","instanceGuid":"27b88585-bea6-f981-1bb7-8fcac3174f83","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Door Gothic Arch R Metal Light"}],"9f750482-b822-4d4b-be6a-9c135c614328":{"stages":["bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f","dfca0ef8-eded-4660-8adb-43c0aa8f4e60"]},"de0b2bc1-2e72-4739-a749-f5281e0de55a":{"mesh":"a66b7dbb-56bc-a6a9-8181-f4f7a95b8dec","material_instance":"809b5115-7fdf-0355-eb53-5552db7e5579"}}],"508647ca-01f3-4930-9e33-4562692b719f":{"mesh":"a66b7dbb-56bc-a6a9-8181-f4f7a95b8dec"},"10dceba7-be9f-4a9d-9902-6f51bed634ab":{"physical_material":"db5dc618-2cfe-44e9-a319-69c503d090e7"}}]}],"0c3f4f29-0d53-4878-922a-cca7d6af7bb6":{"scene":"51a7ae1c-5e00-f42e-c5ec-9a5051586d6e"},"dependencies":["5568bda7-daba-c06d-4321-2d6b46d5014a","308226fb-c19c-3ab4-6bbd-8ee88fadb108","db5dc618-2cfe-44e9-a319-69c503d090e7","5ef0faca-7ae3-1610-6747-6e8ce4cdd901","fa86d677-96db-07f1-f75b-2b1d34e8ce85","04af73dc-28a6-30ee-3e61-e7e76592dfb9","ee228dec-e5d9-43c3-a0eb-0d3c239823b0","809b5115-7fdf-0355-eb53-5552db7e5579","a66b7dbb-56bc-a6a9-8181-f4f7a95b8dec"],"thumbnailGuid":"a74b8d0f-43f3-276b-72d5-ab06b123d25e"}
+{
+    "guid": "51a7ae1c-5e00-f42e-c5ec-9a5051586d6e",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "258136f8-f203-3390-9664-3e7f40fd2b9f",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "d1e3469f-cc60-df3c-c640-e58ef59e7b2c",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Door Gothic Arch R Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "fdbbf6aa-e598-b215-7416-015b3c7f6175",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Door Gothic Arch R Wood Dark Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "dd69d67d-d772-e1fb-a325-e032be113ab7",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Door Gothic Arch R Wood Dark"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "308226fb-c19c-3ab4-6bbd-8ee88fadb108",
+                                "material_instance": "5568bda7-daba-c06d-4321-2d6b46d5014a"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "308226fb-c19c-3ab4-6bbd-8ee88fadb108"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                },
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "c1e1db4a-7eeb-86b7-af4f-dc3c1cafeb24",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Door Gothic Arch R Metal Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "ebfac910-5061-3c38-9b36-075f686a58e7",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Door Gothic Arch R Metal"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "fa86d677-96db-07f1-f75b-2b1d34e8ce85",
+                                "material_instance": "5ef0faca-7ae3-1610-6747-6e8ce4cdd901"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "fa86d677-96db-07f1-f75b-2b1d34e8ce85"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                },
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "8db79271-fb29-b174-77fe-471d417ab2e8",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Door Gothic Arch R Wood Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "61699252-e778-b066-a2ba-eda60f397686",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Door Gothic Arch R Wood"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "ee228dec-e5d9-43c3-a0eb-0d3c239823b0",
+                                "material_instance": "04af73dc-28a6-30ee-3e61-e7e76592dfb9"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "ee228dec-e5d9-43c3-a0eb-0d3c239823b0"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                },
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "e9726f14-ce5c-7c4f-2cdf-70486d20c9d0",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Door Gothic Arch R Metal Light Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "27b88585-bea6-f981-1bb7-8fcac3174f83",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Door Gothic Arch R Metal Light"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "a66b7dbb-56bc-a6a9-8181-f4f7a95b8dec",
+                                "material_instance": "809b5115-7fdf-0355-eb53-5552db7e5579"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "a66b7dbb-56bc-a6a9-8181-f4f7a95b8dec"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "51a7ae1c-5e00-f42e-c5ec-9a5051586d6e"
+    },
+    "dependencies": [
+        "5568bda7-daba-c06d-4321-2d6b46d5014a",
+        "308226fb-c19c-3ab4-6bbd-8ee88fadb108",
+        "db5dc618-2cfe-44e9-a319-69c503d090e7",
+        "5ef0faca-7ae3-1610-6747-6e8ce4cdd901",
+        "fa86d677-96db-07f1-f75b-2b1d34e8ce85",
+        "04af73dc-28a6-30ee-3e61-e7e76592dfb9",
+        "ee228dec-e5d9-43c3-a0eb-0d3c239823b0",
+        "809b5115-7fdf-0355-eb53-5552db7e5579",
+        "a66b7dbb-56bc-a6a9-8181-f4f7a95b8dec"
+    ],
+    "thumbnailGuid": "a74b8d0f-43f3-276b-72d5-ab06b123d25e"
+}

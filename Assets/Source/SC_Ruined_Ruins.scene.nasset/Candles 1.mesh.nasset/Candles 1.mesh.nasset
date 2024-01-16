@@ -1,1 +1,155 @@
-{"guid":"42077083-5225-2a8a-20ad-d47e15b0177c","assetTypeGuid":"abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c","tags":["3db9a07a-f18a-4fe6-87e9-999ef466091a"],"typeGuid":"0c3f4f29-0d53-4878-922a-cca7d6af7bb6","instanceGuid":"d750be9d-029d-8605-00ac-9d4744474117","data_components":[],"children":[{"typeGuid":"de8f8da2-d37f-41da-bc6e-580435fe605f","instanceGuid":"88b4f8cc-f420-9d61-e9ef-633a346d6680","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Candles 1 Physics Body"},{"typeGuid":"653ee503-f473-47d2-be45-08a577d17b86","type":0}],"children":[{"typeGuid":"508647ca-01f3-4930-9e33-4562692b719f","instanceGuid":"d9f1b121-7d06-b596-1190-788b0794c94c","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Candles 1 Candle Collider"}],"children":[{"typeGuid":"de0b2bc1-2e72-4739-a749-f5281e0de55a","instanceGuid":"7e51a550-36ef-f3c0-cba4-40ced5c83a0f","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Candles 1 Candle"}],"9f750482-b822-4d4b-be6a-9c135c614328":{"stages":["bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f","dfca0ef8-eded-4660-8adb-43c0aa8f4e60"]},"de0b2bc1-2e72-4739-a749-f5281e0de55a":{"mesh":"63f3488e-e8ad-189b-3be3-efdf4d64f907","material_instance":"f37295c6-2674-9947-f9fe-35fbb9843dbe"}}],"508647ca-01f3-4930-9e33-4562692b719f":{"mesh":"63f3488e-e8ad-189b-3be3-efdf4d64f907"},"10dceba7-be9f-4a9d-9902-6f51bed634ab":{"physical_material":"db5dc618-2cfe-44e9-a319-69c503d090e7"}},{"typeGuid":"508647ca-01f3-4930-9e33-4562692b719f","instanceGuid":"6e5e607b-af17-a423-2a1c-d385645d11dc","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Candles 1 Light Collider"}],"children":[{"typeGuid":"de0b2bc1-2e72-4739-a749-f5281e0de55a","instanceGuid":"86fb35df-971c-c6a4-ec1f-a722cc02a61f","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Candles 1 Light"}],"9f750482-b822-4d4b-be6a-9c135c614328":{"stages":["bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f","dfca0ef8-eded-4660-8adb-43c0aa8f4e60"]},"de0b2bc1-2e72-4739-a749-f5281e0de55a":{"mesh":"7342c12b-3632-fb0a-f0b3-690b9c7ddd5d","material_instance":"fb722ddf-ca42-76af-77b6-1eebdacfcbed"}}],"508647ca-01f3-4930-9e33-4562692b719f":{"mesh":"7342c12b-3632-fb0a-f0b3-690b9c7ddd5d"},"10dceba7-be9f-4a9d-9902-6f51bed634ab":{"physical_material":"db5dc618-2cfe-44e9-a319-69c503d090e7"}},{"typeGuid":"508647ca-01f3-4930-9e33-4562692b719f","instanceGuid":"0b877176-a6b2-cf1f-fda3-70f715593480","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Candles 1 Black Collider"}],"children":[{"typeGuid":"de0b2bc1-2e72-4739-a749-f5281e0de55a","instanceGuid":"e88072d3-da19-aed8-4cff-b93dadb7d61c","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Candles 1 Black"}],"9f750482-b822-4d4b-be6a-9c135c614328":{"stages":["bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f","dfca0ef8-eded-4660-8adb-43c0aa8f4e60"]},"de0b2bc1-2e72-4739-a749-f5281e0de55a":{"mesh":"b37cfc54-ae9d-fab6-73b3-619e7e13481f","material_instance":"09441966-77ac-6d9a-311f-7f8f5a6b9e1f"}}],"508647ca-01f3-4930-9e33-4562692b719f":{"mesh":"b37cfc54-ae9d-fab6-73b3-619e7e13481f"},"10dceba7-be9f-4a9d-9902-6f51bed634ab":{"physical_material":"db5dc618-2cfe-44e9-a319-69c503d090e7"}}]}],"0c3f4f29-0d53-4878-922a-cca7d6af7bb6":{"scene":"42077083-5225-2a8a-20ad-d47e15b0177c"},"dependencies":["f37295c6-2674-9947-f9fe-35fbb9843dbe","63f3488e-e8ad-189b-3be3-efdf4d64f907","db5dc618-2cfe-44e9-a319-69c503d090e7","fb722ddf-ca42-76af-77b6-1eebdacfcbed","7342c12b-3632-fb0a-f0b3-690b9c7ddd5d","09441966-77ac-6d9a-311f-7f8f5a6b9e1f","b37cfc54-ae9d-fab6-73b3-619e7e13481f"],"thumbnailGuid":"cb391ce7-e34f-2795-159c-df2ac112629d"}
+{
+    "guid": "42077083-5225-2a8a-20ad-d47e15b0177c",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "d750be9d-029d-8605-00ac-9d4744474117",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "88b4f8cc-f420-9d61-e9ef-633a346d6680",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Candles 1 Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "d9f1b121-7d06-b596-1190-788b0794c94c",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Candles 1 Candle Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "7e51a550-36ef-f3c0-cba4-40ced5c83a0f",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Candles 1 Candle"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "63f3488e-e8ad-189b-3be3-efdf4d64f907",
+                                "material_instance": "f37295c6-2674-9947-f9fe-35fbb9843dbe"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "63f3488e-e8ad-189b-3be3-efdf4d64f907"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                },
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "6e5e607b-af17-a423-2a1c-d385645d11dc",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Candles 1 Light Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "86fb35df-971c-c6a4-ec1f-a722cc02a61f",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Candles 1 Light"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "7342c12b-3632-fb0a-f0b3-690b9c7ddd5d",
+                                "material_instance": "fb722ddf-ca42-76af-77b6-1eebdacfcbed"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "7342c12b-3632-fb0a-f0b3-690b9c7ddd5d"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                },
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "0b877176-a6b2-cf1f-fda3-70f715593480",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Candles 1 Black Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "e88072d3-da19-aed8-4cff-b93dadb7d61c",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Candles 1 Black"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "b37cfc54-ae9d-fab6-73b3-619e7e13481f",
+                                "material_instance": "09441966-77ac-6d9a-311f-7f8f5a6b9e1f"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "b37cfc54-ae9d-fab6-73b3-619e7e13481f"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "42077083-5225-2a8a-20ad-d47e15b0177c"
+    },
+    "dependencies": [
+        "f37295c6-2674-9947-f9fe-35fbb9843dbe",
+        "63f3488e-e8ad-189b-3be3-efdf4d64f907",
+        "db5dc618-2cfe-44e9-a319-69c503d090e7",
+        "fb722ddf-ca42-76af-77b6-1eebdacfcbed",
+        "7342c12b-3632-fb0a-f0b3-690b9c7ddd5d",
+        "09441966-77ac-6d9a-311f-7f8f5a6b9e1f",
+        "b37cfc54-ae9d-fab6-73b3-619e7e13481f"
+    ],
+    "thumbnailGuid": "cb391ce7-e34f-2795-159c-df2ac112629d"
+}

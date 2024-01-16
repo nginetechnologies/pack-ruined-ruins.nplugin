@@ -1,1 +1,115 @@
-{"guid":"ea5a8776-4b10-cec9-3e84-af28356841c9","assetTypeGuid":"abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c","tags":["3db9a07a-f18a-4fe6-87e9-999ef466091a"],"typeGuid":"0c3f4f29-0d53-4878-922a-cca7d6af7bb6","instanceGuid":"ec3f4a2c-e19a-3514-9039-20220ad485bf","data_components":[],"children":[{"typeGuid":"de8f8da2-d37f-41da-bc6e-580435fe605f","instanceGuid":"b240ec5f-07cf-dbe4-4cef-543f820b7796","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Tree 3 Physics Body"},{"typeGuid":"653ee503-f473-47d2-be45-08a577d17b86","type":0}],"children":[{"typeGuid":"508647ca-01f3-4930-9e33-4562692b719f","instanceGuid":"d45262dc-ac50-c309-7e37-c02bff124ed2","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Tree 3 Bark Collider"}],"children":[{"typeGuid":"de0b2bc1-2e72-4739-a749-f5281e0de55a","instanceGuid":"8626a2ed-31b7-98e4-5eff-a2eaff27dc97","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Tree 3 Bark"}],"9f750482-b822-4d4b-be6a-9c135c614328":{"stages":["bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f","dfca0ef8-eded-4660-8adb-43c0aa8f4e60"]},"de0b2bc1-2e72-4739-a749-f5281e0de55a":{"mesh":"aa38a484-be58-c557-1531-73927acec77f","material_instance":"d9b3d1ae-a7a0-0fd5-3b8a-0b00c5e592bd"}}],"508647ca-01f3-4930-9e33-4562692b719f":{"mesh":"aa38a484-be58-c557-1531-73927acec77f"},"10dceba7-be9f-4a9d-9902-6f51bed634ab":{"physical_material":"db5dc618-2cfe-44e9-a319-69c503d090e7"}},{"typeGuid":"508647ca-01f3-4930-9e33-4562692b719f","instanceGuid":"0a3a72ef-7474-3153-846d-a4713f065c27","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Tree 3 Leaves Collider"}],"children":[{"typeGuid":"de0b2bc1-2e72-4739-a749-f5281e0de55a","instanceGuid":"9cd382d9-2395-8060-2f26-6029002cc122","data_components":[{"typeGuid":"fefa51b8-945d-4f88-8859-356c7546efa7","name":"Tree 3 Leaves"}],"9f750482-b822-4d4b-be6a-9c135c614328":{"stages":["bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f","dfca0ef8-eded-4660-8adb-43c0aa8f4e60"]},"de0b2bc1-2e72-4739-a749-f5281e0de55a":{"mesh":"19c98290-bee2-d947-2100-f09b9c92d7b8","material_instance":"93b53d4c-b2ff-7256-1a8c-51662b8afa46"}}],"508647ca-01f3-4930-9e33-4562692b719f":{"mesh":"19c98290-bee2-d947-2100-f09b9c92d7b8"},"10dceba7-be9f-4a9d-9902-6f51bed634ab":{"physical_material":"db5dc618-2cfe-44e9-a319-69c503d090e7"}}]}],"0c3f4f29-0d53-4878-922a-cca7d6af7bb6":{"scene":"ea5a8776-4b10-cec9-3e84-af28356841c9"},"dependencies":["d9b3d1ae-a7a0-0fd5-3b8a-0b00c5e592bd","aa38a484-be58-c557-1531-73927acec77f","db5dc618-2cfe-44e9-a319-69c503d090e7","93b53d4c-b2ff-7256-1a8c-51662b8afa46","19c98290-bee2-d947-2100-f09b9c92d7b8"],"thumbnailGuid":"ca20549e-8aa0-8c8b-dcc5-5dd08f299f9e"}
+{
+    "guid": "ea5a8776-4b10-cec9-3e84-af28356841c9",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "ec3f4a2c-e19a-3514-9039-20220ad485bf",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "b240ec5f-07cf-dbe4-4cef-543f820b7796",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Tree 3 Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "d45262dc-ac50-c309-7e37-c02bff124ed2",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Tree 3 Bark Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "8626a2ed-31b7-98e4-5eff-a2eaff27dc97",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Tree 3 Bark"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "aa38a484-be58-c557-1531-73927acec77f",
+                                "material_instance": "d9b3d1ae-a7a0-0fd5-3b8a-0b00c5e592bd"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "aa38a484-be58-c557-1531-73927acec77f"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                },
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "0a3a72ef-7474-3153-846d-a4713f065c27",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Tree 3 Leaves Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "9cd382d9-2395-8060-2f26-6029002cc122",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Tree 3 Leaves"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "19c98290-bee2-d947-2100-f09b9c92d7b8",
+                                "material_instance": "93b53d4c-b2ff-7256-1a8c-51662b8afa46"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "19c98290-bee2-d947-2100-f09b9c92d7b8"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "ea5a8776-4b10-cec9-3e84-af28356841c9"
+    },
+    "dependencies": [
+        "d9b3d1ae-a7a0-0fd5-3b8a-0b00c5e592bd",
+        "aa38a484-be58-c557-1531-73927acec77f",
+        "db5dc618-2cfe-44e9-a319-69c503d090e7",
+        "93b53d4c-b2ff-7256-1a8c-51662b8afa46",
+        "19c98290-bee2-d947-2100-f09b9c92d7b8"
+    ],
+    "thumbnailGuid": "ca20549e-8aa0-8c8b-dcc5-5dd08f299f9e"
+}
