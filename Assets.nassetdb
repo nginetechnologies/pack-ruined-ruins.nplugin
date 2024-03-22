@@ -31,18 +31,6 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
-    "0328039e-c4ed-4275-896c-51a923ca3968": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Characters/Rogue Topdown.scene.nasset",
-        "thumbnail": "c10af265-b935-473d-b8e2-2d96a0f873bf",
-        "tags": [
-            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
-        ],
-        "dependencies": [
-            "2769baa2-dde3-cbc2-4e2c-b4c4666352a5"
-        ]
-    },
     "03cd7117-9a67-d52e-26d4-2909398e2c39": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -710,6 +698,13 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "2677865c-5353-4755-21c7-cfef8d618d86": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Material Instances/Metal Torch.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
     "26d1d20e-796f-9bcb-96e7-bf4edfd0923c": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -816,6 +811,21 @@
     "2958b2c7-ad41-5a21-2734-4200b93216e8": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Material Instances/Thumbnails/Book 3.mtli.nasset.tex.nasset"
+    },
+    "2962b792-50ec-9a6e-f3e2-8b4cb130c9ec": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/SM_Torch.scene.nasset/Torch.mesh.nasset/Torch.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "2677865c-5353-4755-21c7-cfef8d618d86",
+            "debfc4a7-4b97-8222-3b52-2c91d44682de",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7",
+            "f90e5451-4d3b-0b6f-50a4-cb1901c48391",
+            "9e1a1233-2835-871f-1d1c-e45d6bfd8ca6"
+        ]
     },
     "29708e87-57ed-0464-54b7-72944a45cab5": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -1584,9 +1594,9 @@
     "49f90861-76d7-15ee-85f1-5b9c8b57cc78": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Fire.mtli.nasset",
-        "thumbnail": "0ccb6340-d343-34b4-c5ee-32a71aee2b17",
+        "thumbnail": "b0709d8b-57b2-7bd1-bce6-417bf88b3891",
         "dependencies": [
-            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+            "40bcfd38-00d8-4d1c-b231-1f8f77b23c9a"
         ]
     },
     "4a353f39-74a0-ecf1-1574-17051db6b0d5": {
@@ -1785,6 +1795,10 @@
             "a66b7dbb-56bc-a6a9-8181-f4f7a95b8dec"
         ]
     },
+    "528ede13-d871-2f3c-9936-2f1768819bfd": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Cubemaps/Ruined_EnviroSpecular.tex.nasset"
+    },
     "52b84418-03be-7fba-41e1-496b88f19133": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1902,6 +1916,10 @@
             "b9708b9d-e385-fca9-9acd-a5a0560fadfe",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "5713dc18-e92c-94c6-4b7f-8189fefc4dd7": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Cubemaps/Ruined_EnviroDiffuse.tex.nasset"
     },
     "574b718b-7fb2-d7f0-9fbe-e3ed36fc49e0": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -3534,6 +3552,14 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "9bc7f936-3353-7a4b-3533-5a54a9d041b7": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/SM_Torch.scene.nasset/SM_Torch.scene.nasset",
+        "dependencies": [
+            "2962b792-50ec-9a6e-f3e2-8b4cb130c9ec"
+        ]
+    },
     "9c4ffd42-9630-0715-e547-59ae971ad78d": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Material Instances/Thumbnails/Stone.mtli.nasset.tex.nasset"
@@ -3563,6 +3589,18 @@
         ],
         "dependencies": [
             "b9708b9d-e385-fca9-9acd-a5a0560fadfe",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "9e1a1233-2835-871f-1d1c-e45d6bfd8ca6": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/SM_Torch.scene.nasset/Torch.mesh.nasset/Torch Fire.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "f90e5451-4d3b-0b6f-50a4-cb1901c48391",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
@@ -4184,6 +4222,10 @@
             "8184c770-ec81-32e1-d00f-a7123a839c29",
             "3304100d-267a-36c4-6c1e-557dc0fe2871"
         ]
+    },
+    "be214c89-0085-fd04-8d1c-893e33ee9a32": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Cubemaps/Ruined_Enviro.tex.nasset"
     },
     "bf3ce953-d18c-94d2-716e-d1d838c8918c": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -4923,6 +4965,18 @@
         ],
         "dependencies": [
             "49f90861-76d7-15ee-85f1-5b9c8b57cc78",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "debfc4a7-4b97-8222-3b52-2c91d44682de": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/SM_Torch.scene.nasset/Torch.mesh.nasset/Torch Metal Torch.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "2677865c-5353-4755-21c7-cfef8d618d86",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
@@ -5691,6 +5745,13 @@
     "f90b4381-82d6-f34e-5923-aa722a0b6c78": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Ruined_Ruins.scene.nasset/Bricks.mesh.nasset/Thumbnails/Bricks.mesh.nasset.tex.nasset"
+    },
+    "f90e5451-4d3b-0b6f-50a4-cb1901c48391": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Material Instances/Fire.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
     },
     "f9daf1c0-cf86-f8a1-bd6b-b09cf14fd150": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
