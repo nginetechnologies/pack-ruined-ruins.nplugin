@@ -20,7 +20,7 @@
         },
         {
             "type": 1,
-            "value": 0.001
+            "value": 0.01
         }
     ],
     "thumbnailGuid": "b0709d8b-57b2-7bd1-bce6-417bf88b3891"
