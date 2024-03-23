@@ -31,19 +31,6 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
-    "0328039e-c4ed-4275-896c-51a923ca3968": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Characters/Rogue Topdown.scene.nasset",
-        "thumbnail": "c10af265-b935-473d-b8e2-2d96a0f873bf",
-        "tags": [
-            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
-        ],
-        "dependencies": [
-            "2769baa2-dde3-cbc2-4e2c-b4c4666352a5",
-            "66d9c207-459d-b54f-80f9-1cf593d3403e"
-        ]
-    },
     "03cd7117-9a67-d52e-26d4-2909398e2c39": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
