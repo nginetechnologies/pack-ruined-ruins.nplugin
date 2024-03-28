@@ -222,62 +222,6 @@
                                     "name": "Rogue Scene"
                                 }
                             ]
-                        },
-                        {
-                            "typeGuid": "5f894dea-bac9-4b62-ab51-291dccd451a0",
-                            "5f894dea-bac9-4b62-ab51-291dccd451a0": {
-                                "joint": "c3b4899f-b49f-5df6-d0f5-3c9f9e66d1a8"
-                            },
-                            "data_components": [
-                                {
-                                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                                    "templateInstanceGuid": "908944db-88f9-d602-2efe-9791d1125bf3"
-                                },
-                                {
-                                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
-                                },
-                                {
-                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                                    "name": "Torch Joint"
-                                }
-                            ],
-                            "children": [
-                                {
-                                    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-                                    "data_components": [
-                                        {
-                                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                                            "templateInstanceGuid": "af63a061-1f5b-ea68-4555-7d203a9754f8"
-                                        },
-                                        {
-                                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                                            "name": "Torch"
-                                        }
-                                    ],
-                                    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                                        "scene": "66d9c207-459d-b54f-80f9-1cf593d3403e"
-                                    }
-                                },
-                                {
-                                    "typeGuid": "c720a57c-40c6-48a4-8f18-12d41e093616",
-                                    "data_components": [
-                                        {
-                                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                                            "name": "Torch Glow"
-                                        }
-                                    ],
-                                    "9f750482-b822-4d4b-be6a-9c135c614328": {
-                                        "stages": [
-                                            "f141b823-5844-4fbc-b106-0635ff52199c",
-                                            "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
-                                        ]
-                                    },
-                                    "c720a57c-40c6-48a4-8f18-12d41e093616": {
-                                        "influenceRadius": 5.0,
-                                        "color": "#e47025"
-                                    }
-                                }
-                            ]
                         }
                     ]
                 }
